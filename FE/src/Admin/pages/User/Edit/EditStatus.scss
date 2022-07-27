@@ -1,0 +1,22 @@
+.formEdit {
+  .selectStatus {
+    select {
+      border: 1px solid;
+      width: 300px;
+      padding: 10px;
+      margin: 20px 0px;
+    }
+  }
+  button{
+      margin-top: 50px;
+    font-size: 16px;
+    background: #6C63FF;
+    float: right;
+border-radius: 5px;
+padding: 5px 15px;
+color: white;
+cursor: pointer;
+height: 40px;
+border:none
+  }
+}

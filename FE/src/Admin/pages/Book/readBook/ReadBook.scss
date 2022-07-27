@@ -1,0 +1,68 @@
+.content {
+    .up {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 125px;
+        margin-right: 125px;
+        .left {
+            flex: 1;
+            img {
+                width: 170px;
+                height: 230px;
+                object-fit: cover;
+                cursor: pointer;
+            }
+        }
+        .right {
+            flex: 3;
+            margin-left: 20px;
+            display: flex;
+            flex-direction: column;
+            .vip {
+                width: 20px;
+                height: 20px;
+            }
+            .name {
+                position: relative;
+                width: 400px;
+                .title {
+                    font-weight: bold;
+                    margin-bottom: 10px;
+                    font-size: 16px;
+                }
+                .vip {
+                    width: 23px;
+                    height: 23px;
+                    position: absolute;
+                    margin-left: 10px;
+                }
+            }
+            
+            .description {
+                margin-top: 10px;
+            }
+            span {
+                font-size: 12px;
+                margin-bottom: 2px;
+            }
+        }
+        .edit {
+            cursor: pointer;
+            width: 25px;
+            height: 25px;
+        }
+    }
+    .down {
+            .newCopy {
+                width: 150px;
+                height: 30px;
+                background: var(--purple);
+                color: white;
+                border: none;
+                border-radius: 5px;
+                margin-left: 700px;
+                cursor: pointer;
+                margin-bottom: 20px;
+            }
+        }
+}

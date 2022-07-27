@@ -1,0 +1,10 @@
+.catName {
+    &:hover {
+        color: var(--purple);
+        font-weight: bold;
+        cursor: pointer;
+    }
+}
+.clicked{
+    color: var(--purple);
+}

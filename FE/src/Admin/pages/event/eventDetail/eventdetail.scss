@@ -1,0 +1,37 @@
+.eventdetail{
+    .admin{
+        .content {
+            .up {
+                display: flex;
+                margin-top: 30px;
+                margin-left: 25px;
+                margin-right: 125px;
+               
+                .left {
+                    flex: 1;
+                    img {
+                        width: 400px;
+                        height: 200px;
+                        object-fit: contain;
+                        cursor: pointer;
+                    }
+                }
+                .right {
+                    flex: 3;
+                    margin-left: 20px;
+                    display: flex;
+                    flex-direction: column;
+                    span {
+                        font-size: 14px;
+                        margin-bottom: 3px;
+                    }
+                }
+                .edit {
+                    cursor: pointer;
+                    width: 25px;
+                    height: 25px;
+                }
+            }
+        } 
+    }
+}

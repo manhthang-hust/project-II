@@ -1,0 +1,2293 @@
+[
+  {
+    "_id": "61df66faa18be589aa76c5b2",
+    "copyId": "a0001",
+    "book": "5c88fa8cf4afda39709c2953",
+    "printedYear": 2019,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa0ec3bbbe38b0b070",
+    "copyId": "a0002",
+    "book": "5c88fa8cf4afda39709c2953",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa6dd470d50a8fba35",
+    "copyId": "a0003",
+    "book": "5c88fa8cf4afda39709c2953",
+    "printedYear": 2011,
+    "status": "isLost",
+    "new": false
+  },
+  {
+    "_id": "61df66fabe91a12e64907e9b",
+    "copyId": "a0004",
+    "book": "5c88fa8cf4afda39709c2952",
+    "status": "available",
+    "printedYear": 2010,
+    "new": true
+  },
+  {
+    "_id": "61df66fa8cd0862b9092bb5d",
+    "copyId": "a0005",
+    "book": "5c88fa8cf4afda39709c2952",
+    "printedYear": 2010,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fae1099f631b10093a",
+    "copyId": "a0006",
+    "book": "5c88fa8cf4afda39709c2952",
+    "printedYear": 2001,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa4a67b609c50dd160",
+    "copyId": "a0007",
+    "book": "5c88fa8cf4afda39709c295c",
+    "printedYear": 2005,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66faa1703912a3c2fa7d",
+    "copyId": "a0008",
+    "book": "5c88fa8cf4afda39709c295c",
+    "printedYear": 2005,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fac1d136e8b78e829b",
+    "copyId": "a0009",
+    "book": "5c88fa8cf4afda39709c295c",
+    "printedYear": 2015,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa1f436bf6769d7813",
+    "copyId": "a0010",
+    "book": "61df64edc094e860d76057ab",
+    "status": "available",
+    "printedYear": 2018,
+    "new": true
+  },
+  {
+    "_id": "61df66fa6dabba580b923319",
+    "copyId": "a0011",
+    "book": "61df64edc094e860d76057ab",
+    "status": "available",
+    "printedYear": 2018,
+    "new": true
+  },
+  {
+    "_id": "61df66fa44cd58f63ed8fc98",
+    "copyId": "a0012",
+    "book": "61df64edc094e860d76057ab",
+    "printedYear": 2006,
+    "status": "isLost",
+    "new": false
+  },
+  {
+    "_id": "61df66fa9d27bf8447e462f4",
+    "copyId": "b0000",
+    "book": "61df64f3373937ce2d1dcf88",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa199ed60edb63e428",
+    "copyId": "b0001",
+    "book": "61df64f3373937ce2d1dcf88",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fab65f68a74bc7dc3b",
+    "copyId": "b0002",
+    "book": "61df64f3373937ce2d1dcf88",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa3f33c031eef98618",
+    "copyId": "b0003",
+    "book": "61df64f3373937ce2d1dcf88",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa70e5f3485d511cb8",
+    "copyId": "b0004",
+    "book": "61df64f9abf2a830249ab62b",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa3652308f3fbbc353",
+    "copyId": "b0005",
+    "book": "61df64f9abf2a830249ab62b",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e40c9a0e24bf1ccbd45b1f",
+    "copyId": "b0006",
+    "book": "61df64f9abf2a830249ab62b",
+    "printedYear": 2022,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e40c9af03da5c9e916f425",
+    "copyId": "b0007",
+    "book": "61df64f9abf2a830249ab62b",
+    "printedYear": 2015,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa406a4817bf17455b",
+    "copyId": "b0008",
+    "book": "61df64f9abf2a830249ab62b",
+    "printedYear": 2010,
+    "status": "isLost",
+    "new": false
+  },
+  {
+    "_id": "61df66fad0f854b2df7b32d5",
+    "copyId": "b0009",
+    "book": "61df66fa3de7fdb345fe921a",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa33e3cfa8b05139eb",
+    "copyId": "b0010",
+    "book": "61df66fa3de7fdb345fe921a",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa987d14d97d52c64f",
+    "copyId": "b0011",
+    "book": "61df66fa3de7fdb345fe921a",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa9492ccc8ba13dd5a",
+    "copyId": "b0012",
+    "book": "61df66fa7fa913a05501229a",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa0bb1f450510fde09",
+    "copyId": "b0013",
+    "book": "61df66fa7fa913a05501229a",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66faafdf55ae2825cd87",
+    "copyId": "b0014",
+    "book": "61df66fa7fa913a05501229a",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa1747317b549da6ac",
+    "copyId": "b0015",
+    "book": "61df66fa7fa913a05501229a",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fad64c5d230cb70b83",
+    "copyId": "b0016",
+    "book": "61df66fa3654e57e8a5bdc4f",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fad7692d51c3a34ec0",
+    "copyId": "b00017",
+    "book": "61df66fa3654e57e8a5bdc4f",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa0a9c10008f8af260",
+    "copyId": "b0018",
+    "book": "61df66fa3654e57e8a5bdc4f",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa42766573d5e80de6",
+    "copyId": "b0019",
+    "book": "61df66fa3654e57e8a5bdc4f",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66faa6a39b559d3f7c9a",
+    "copyId": "c0001",
+    "book": "61df64e4bfb5f693acfbeab4",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa695f2624b2aec977",
+    "copyId": "c0002",
+    "book": "61df64e4bfb5f693acfbeab4",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66facee55537d15cfe3d",
+    "copyId": "c0003",
+    "book": "61df64e4bfb5f693acfbeab4",
+    "printedYear": 2021,
+    "status": "isLost",
+    "new": true
+  },
+  {
+    "_id": "61df66fa14f0fd88331dbd05",
+    "copyId": "c0004",
+    "book": "61df66fad0d89493f1ef8834",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa05838833cbfbda20",
+    "copyId": "c0005",
+    "book": "61df66fad0d89493f1ef8834",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66faf208272d2b9efad3",
+    "copyId": "c0006",
+    "book": "61df66facd0a7056e46e5b72",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa7da9393db2d404e9",
+    "copyId": "c0007",
+    "book": "61df66facd0a7056e46e5b72",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66faeee2fc9602355877",
+    "copyId": "c0008",
+    "book": "61df66facd0a7056e46e5b72",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66facb4e832061a64106",
+    "copyId": "c0009",
+    "book": "61df66fa1bced18e34079a51",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa0148d5a7fb7b1fd8",
+    "copyId": "c0010",
+    "book": "61df66fa1bced18e34079a51",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66faa2077343e32a6091",
+    "copyId": "c0011",
+    "book": "61df66fa1bced18e34079a51",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa74484234c63da2f5",
+    "copyId": "c0012",
+    "book": "61df66fa44a8a20f4ca054df",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa4f80ebdd35cacf22",
+    "copyId": "c0013",
+    "book": "61df66fa44a8a20f4ca054df",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa07eac3b41e53caa1",
+    "copyId": "c0014",
+    "book": "61df66fa44a8a20f4ca054df",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa9b2cbebc0ed5e9ad",
+    "copyId": "c0015",
+    "book": "61df66fa44a8a20f4ca054df",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61df66fa0744d7b9d353e98e",
+    "copyId": "d0001",
+    "book": "61df66fa5e6147a5b1fc0c31",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa7e343e30945443d8",
+    "copyId": "d0002",
+    "book": "61df66fa5e6147a5b1fc0c31",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa5e4f5b2295875d92",
+    "copyId": "d0003",
+    "book": "61df66fa86adaa72ae7a9a74",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fac78800550a92adc8",
+    "copyId": "d0004",
+    "book": "61df66fa86adaa72ae7a9a74",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa5a394bcb8ef1447d",
+    "copyId": "d0005",
+    "book": "61df66fa86adaa72ae7a9a74",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa50dbb68504af7176",
+    "copyId": "d0006",
+    "book": "61df66fa86adaa72ae7a9a74",
+    "printedYear": 2017,
+    "status": "isLost",
+    "new": false
+  },
+  {
+    "_id": "61df66fa2573b964f2a1d107",
+    "copyId": "d0007",
+    "book": "61df66fa7da7823053491376",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fabb6cd36011796778",
+    "copyId": "d0008",
+    "book": "61df66fa7da7823053491376",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fad0002c29492f59a3",
+    "copyId": "d0009",
+    "book": "61df66fa7da7823053491376",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa79e8cf5524c5de36",
+    "copyId": "d0010",
+    "book": "61df66faa66a41b46583fd9d",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fab07531ee38b79568",
+    "copyId": "d0011",
+    "book": "61df66faa66a41b46583fd9d",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa77602d138fe69297",
+    "copyId": "d0012",
+    "book": "61df66faa66a41b46583fd9d",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa97cb335d4fda81c3",
+    "copyId": "d0013",
+    "book": "61df66faa66a41b46583fd9d",
+    "printedYear": 2018,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66faf8e65d60ce3eb3ed",
+    "copyId": "d0014",
+    "book": "61df66fab186b3118c86c973",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa09ac437bed2b0cb9",
+    "copyId": "d0015",
+    "book": "61df66fab186b3118c86c973",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fada53b74787bca329",
+    "copyId": "d0016",
+    "book": "61df66fab186b3118c86c973",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66facb06b58dd22c66d6",
+    "copyId": "d0017",
+    "book": "61df66fab186b3118c86c973",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa9602c7e34eb0f811",
+    "copyId": "d0018",
+    "book": "61df66fab186b3118c86c973",
+    "printedYear": 2017,
+    "status": "isLost",
+    "new": false
+  },
+
+  {
+    "_id": "61df66fa963a083b30170716",
+    "copyId": "e0000",
+    "book": "61df66faae0fb47c3946154d",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa57a848270f9760eb",
+    "copyId": "e0001",
+    "book": "61df66faae0fb47c3946154d",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa7babbe191aec6a01",
+    "copyId": "e0002",
+    "book": "61df66faae0fb47c3946154d",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fac3940e3039e820e2",
+    "copyId": "e0003",
+    "book": "61df66faae0fb47c3946154d",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa20a57273b0eb23c2",
+    "copyId": "e0004",
+    "book": "61df66fa1258d25fe6411ed7",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa1870ae334e68d6b9",
+    "copyId": "e0005",
+    "book": "61df66fa1258d25fe6411ed7",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fad79c8e17ec336aff",
+    "copyId": "e0006",
+    "book": "61df66fa1258d25fe6411ed7",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa2fd918ce55f2c6ff",
+    "copyId": "e0007",
+    "book": "61df66fa1258d25fe6411ed7",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa6e078521b5b25b23",
+    "copyId": "e0008",
+    "book": "61df66fa06d24dfe23a4efd6",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa62a204bfd51a2dcd",
+    "copyId": "e0009",
+    "book": "61df66fa06d24dfe23a4efd6",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa7917038f4c6d1d6b",
+    "copyId": "e0010",
+    "book": "61df66fa06d24dfe23a4efd6",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa28690c7acfa70e56",
+    "copyId": "e0011",
+    "book": "61df66fa06d24dfe23a4efd6",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa15317fae109c1ecd",
+    "copyId": "e0012",
+    "book": "61df66fafd706aa4ea7edbe2",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fab508c954c36caa18",
+    "copyId": "e0013",
+    "book": "61df66fafd706aa4ea7edbe2",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fada2d9aee893e42e1",
+    "copyId": "e0014",
+    "book": "61df66fafd706aa4ea7edbe2",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fad479114d1ccf5840",
+    "copyId": "e0015",
+    "book": "61df66fafd706aa4ea7edbe2",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61df66fa60eafc4d7f3c228a",
+    "copyId": "e0016",
+    "book": "61df66fa177f34b995d90f59",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fa3149e63ab825be66",
+    "copyId": "e0017",
+    "book": "61df66fa177f34b995d90f59",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66fad38a495a6702528e",
+    "copyId": "e0018",
+    "book": "61df66fa177f34b995d90f59",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61df66faa3582a7247456b23",
+    "copyId": "e0019",
+    "book": "61df66fa177f34b995d90f59",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+
+  {
+    "_id": "61e150883136f622ecf02f5f",
+    "copyId": "f0000",
+    "book": "61df66faf161f659433ccfcd",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f83164ae1a631a50",
+    "copyId": "f0001",
+    "book": "61df66faf161f659433ccfcd",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088eb2f938a9c0d9051",
+    "copyId": "f0002",
+    "book": "61df66faf161f659433ccfcd",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ca4e3e7406e28463",
+    "copyId": "f0003",
+    "book": "61df66faf161f659433ccfcd",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088458d5228c2a0f364",
+    "copyId": "f0004",
+    "book": "61df66fa51366cfe3a874948",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088f207b89a880e4bb4",
+    "copyId": "f0005",
+    "book": "61df66fa51366cfe3a874948",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150885c208e3906d4432b",
+    "copyId": "f0006",
+    "book": "61df66fa51366cfe3a874948",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887abf7ba043bfff66",
+    "copyId": "f0007",
+    "book": "61df66fa51366cfe3a874948",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088557d772857a53bbe",
+    "copyId": "f0008",
+    "book": "61df66facf8bee7a02c5e06a",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088b82d47e4cedb5f65",
+    "copyId": "f0009",
+    "book": "61df66facf8bee7a02c5e06a",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150880b8b209687bab1f5",
+    "copyId": "f0010",
+    "book": "61df66facf8bee7a02c5e06a",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088286040ec94f3f90b",
+    "copyId": "f0011",
+    "book": "61df66facf8bee7a02c5e06a",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088648b64106eea4bf8",
+    "copyId": "f0012",
+    "book": "61df66fa9a731c0ea12c22c7",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e62a1c4ffcaf2c30",
+    "copyId": "f0013",
+    "book": "61df66fa9a731c0ea12c22c7",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508823586ddda3ebc6e0",
+    "copyId": "f0014",
+    "book": "61df66fa9a731c0ea12c22c7",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088548e15c89c8e5f4c",
+    "copyId": "f0015",
+    "book": "61df66fa491f1c448bad7c9a",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088788d7eaffcbb3bc5",
+    "copyId": "f0016",
+    "book": "61df66fa491f1c448bad7c9a",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150881078d4754c64747c",
+    "copyId": "f0017",
+    "book": "61df66fa491f1c448bad7c9a",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e15088f87d5d2ea0f620df",
+    "copyId": "g0000",
+    "book": "61df66fa30b75917a747d5e7",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088a305d2c4140c1bec",
+    "copyId": "g0001",
+    "book": "61df66fa30b75917a747d5e7",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884c5fbe7575719d3b",
+    "copyId": "g0002",
+    "book": "61df66fa30b75917a747d5e7",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884455d56c51fc10e0",
+    "copyId": "g0003",
+    "book": "61df66facd6cb2beb7de53fb",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088b365fcc7bf424fd8",
+    "copyId": "g0004",
+    "book": "61df66facd6cb2beb7de53fb",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088975ba7b5062bc98c",
+    "copyId": "g0005",
+    "book": "61df66facd6cb2beb7de53fb",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088d1a632c3bd431986",
+    "copyId": "g0006",
+    "book": "61df66facd6cb2beb7de53fb",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088152dc9be9bc9d84b",
+    "copyId": "g0007",
+    "book": "61df66facd6cb2beb7de53fb",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884ada5b4d1f2debd3",
+    "copyId": "g0008",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150880b9d191d8794e060",
+    "copyId": "g0009",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150886f111cc44888a261",
+    "copyId": "g0010",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150886602e3ec2c0e38a3",
+    "copyId": "g0011",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f20316bba61cd319",
+    "copyId": "g0012",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088861174793a657083",
+    "copyId": "g0013",
+    "book": "61df66fade944d63eafa1812",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508863d9a4744cf99041",
+    "copyId": "g0014",
+    "book": "61df66faeb21df428a519bfc",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508885e1153eabf3ae35",
+    "copyId": "g0015",
+    "book": "61df66faeb21df428a519bfc",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888369768729a8613b",
+    "copyId": "g0016",
+    "book": "61df66faeb21df428a519bfc",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088d48dd20fc4063b8d",
+    "copyId": "g0017",
+    "book": "61df66faeb21df428a519bfc",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150886086738ca6c5a812",
+    "copyId": "g0018",
+    "book": "61df66fade9e96ff5fd3fb39",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150888db0bb8d8479fab5",
+    "copyId": "g0019",
+    "book": "61df66fade9e96ff5fd3fb39",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150882fca2d128c94e35d",
+    "copyId": "g0020",
+    "book": "61df66fade9e96ff5fd3fb39",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508845ceb6c339d9491c",
+    "copyId": "g0021",
+    "book": "61df66fade9e96ff5fd3fb39",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088efcb9cdc40c339b6",
+    "copyId": "g0022",
+    "book": "61df66fa9d2ce3217877828b",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887617c1d9e5bdb41b",
+    "copyId": "g0023",
+    "book": "61df66fa9d2ce3217877828b",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150886e1fa75ba1afd382",
+    "copyId": "g0024",
+    "book": "61df66fa9d2ce3217877828b",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088d5dab644702d0be1",
+    "copyId": "g0025",
+    "book": "61df66fa3f478afaaa376323",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088b6f9661ee8f1a3a1",
+    "copyId": "g0026",
+    "book": "61df66fa3f478afaaa376323",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508893bfd2902c0a75af",
+    "copyId": "g0027",
+    "book": "61df66fa3f478afaaa376323",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088c7211da7ac8c6002",
+    "copyId": "g0028",
+    "book": "61df66fa3f478afaaa376323",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088c72f930ca697d683",
+    "copyId": "g0029",
+    "book": "61df66fa4a3a7e37764b3da9",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088335ab632c59e22f1",
+    "copyId": "g0030",
+    "book": "61df66fa4a3a7e37764b3da9",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e71fac58d7cd258d",
+    "copyId": "g0031",
+    "book": "61df66fa4a3a7e37764b3da9",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508859ca6ec9c274e1ab",
+    "copyId": "g0032",
+    "book": "61df66fa94e37da30010701c",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088503833df90a353c8",
+    "copyId": "g0033",
+    "book": "61df66fa94e37da30010701c",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508855b4d5f2d038bc1c",
+    "copyId": "g0034",
+    "book": "61df66fa94e37da30010701c",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508813f9a1b862433093",
+    "copyId": "g0035",
+    "book": "61df66fa6dfe1e3b90035551",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ed349a861baef8f0",
+    "copyId": "g0036",
+    "book": "61df66fa6dfe1e3b90035551",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ae195a5aa1cd3d29",
+    "copyId": "g0037",
+    "book": "61df66fa6dfe1e3b90035551",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508898f68062b90a5e90",
+    "copyId": "g0038",
+    "book": "61df66fa6dfe1e3b90035551",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+
+  {
+    "_id": "61e15088f10cced35fb31507",
+    "copyId": "h0000",
+    "book": "61df66faf9cc5d0049c64ca8",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508842d32f1723e36c31",
+    "copyId": "h0001",
+    "book": "61df66faf9cc5d0049c64ca8",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887fe8749faef04c9e",
+    "copyId": "h0002",
+    "book": "61df66faf9cc5d0049c64ca8",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508885b5a93f924e4213",
+    "copyId": "h0003",
+    "book": "61df66fab693b39a5f065ba7",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150885cf6f0710926b8bf",
+    "copyId": "h0004",
+    "book": "61df66fab693b39a5f065ba7",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e40c9a6bc9f00d1cc02483",
+    "copyId": "h0005",
+    "book": "61df66fab693b39a5f065ba7",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088d027599cd6bbbe26",
+    "copyId": "h0006",
+    "book": "61df66faf0118b01a55a1588",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889dd375a161f472b7",
+    "copyId": "h0007",
+    "book": "61df66faf0118b01a55a1588",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088cc33ae50b5e46bda",
+    "copyId": "h0008",
+    "book": "61df66faf0118b01a55a1588",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150885761098aa90e71da",
+    "copyId": "h0009",
+    "book": "61df66fab728d54220e7f884",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508878127821bebd2625",
+    "copyId": "h0010",
+    "book": "61df66fab728d54220e7f884",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881e5df05b7bdf0dce",
+    "copyId": "h0011",
+    "book": "61df66fab728d54220e7f884",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088788115e93f867edd",
+    "copyId": "h0012",
+    "book": "61df66fa905cafdbd2f99dc3",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883b4ef66ddb9aa044",
+    "copyId": "h0013",
+    "book": "61df66fa905cafdbd2f99dc3",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150884ef3a8e21c6f12cc",
+    "copyId": "h0014",
+    "book": "61df66fa905cafdbd2f99dc3",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088568c775317c2c455",
+    "copyId": "h0015",
+    "book": "61df66fa6dcac1ea5374324d",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887ff462daa0f44d65",
+    "copyId": "h0016",
+    "book": "61df66fa6dcac1ea5374324d",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508841b48dcb58779249",
+    "copyId": "h0017",
+    "book": "61df66fa6dcac1ea5374324d",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888e6162ebbadc1aee",
+    "copyId": "h0018",
+    "book": "61df66fabf1b96d16526be6b",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508870deb0bc08d3608b",
+    "copyId": "h0019",
+    "book": "61df66fabf1b96d16526be6b",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e40c9ab8b72626d1ae1702",
+    "copyId": "h0020",
+    "book": "61df66fabf1b96d16526be6b",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150886e4f0bc88f42880a",
+    "copyId": "h0021",
+    "book": "61df66fa372cadaf713baaab",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508888157f7dee3b836d",
+    "copyId": "h0022",
+    "book": "61df66fa372cadaf713baaab",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889fd8cd558909303b",
+    "copyId": "h0023",
+    "book": "61df66fa372cadaf713baaab",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150887d620900933f592b",
+    "copyId": "h0024",
+    "book": "61df66faee553fc653151676",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088c2d52ab7cadb40e7",
+    "copyId": "h0025",
+    "book": "61df66faee553fc653151676",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884f6a1acb15f209be",
+    "copyId": "h0026",
+    "book": "61df66faee553fc653151676",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088992053ae7c9dc001",
+    "copyId": "h0027",
+    "book": "61df66fadc0074914566e653",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088670e05a60b67e4f6",
+    "copyId": "h0028",
+    "book": "61df66fadc0074914566e653",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088b5a8ac394cab9248",
+    "copyId": "h0029",
+    "book": "61df66fadc0074914566e653",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e150885fff92da874359af",
+    "copyId": "i0000",
+    "book": "61df66fa0fa66ea027ce2aba",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508803eea10258ae75ca",
+    "copyId": "i0001",
+    "book": "61df66fa0fa66ea027ce2aba",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884b465fc3c17db0df",
+    "copyId": "i0002",
+    "book": "61df66fa0fa66ea027ce2aba",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088115b18b8666d5ea4",
+    "copyId": "i0003",
+    "book": "61df66fa2d0f6cf2f0d10b79",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150889c17fbfc4b187f62",
+    "copyId": "i0004",
+    "book": "61df66fa2d0f6cf2f0d10b79",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088a803dd8715ebe87c",
+    "copyId": "i0005",
+    "book": "61df66fa2d0f6cf2f0d10b79",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508885ac6ec94114906e",
+    "copyId": "i0006",
+    "book": "61df66fa8fdca2fd13fc7640",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150885bb074b07eae1dcb",
+    "copyId": "i0007",
+    "book": "61df66fa8fdca2fd13fc7640",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508802491c0715ddbe22",
+    "copyId": "i0008",
+    "book": "61df66fa8fdca2fd13fc7640",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508806899ce903127aa5",
+    "copyId": "i0009",
+    "book": "61df66fa71e0489034103d80",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ad0596deb907e2ac",
+    "copyId": "i0010",
+    "book": "61df66fa71e0489034103d80",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088cba6c0409f019382",
+    "copyId": "i0011",
+    "book": "61df66fa71e0489034103d80",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508810e5bb84231663f5",
+    "copyId": "i0012",
+    "book": "61df66fa2bc77de16424bdfc",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088bcbf4b5246962c62",
+    "copyId": "i0013",
+    "book": "61df66fa2bc77de16424bdfc",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150881378462ba4d2a105",
+    "copyId": "i0014",
+    "book": "61df66fa2bc77de16424bdfc",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e150887e4a2d7ebe16e101",
+    "copyId": "k0000",
+    "book": "61df66fa75dd6cb57805d689",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881481e11a1a87ada9",
+    "copyId": "k0001",
+    "book": "61df66fa75dd6cb57805d689",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883d453f99407d1ed7",
+    "copyId": "k0002",
+    "book": "61df66fa75dd6cb57805d689",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e7fb144c0e2cf04e",
+    "copyId": "k0003",
+    "book": "61df66fae6234f0096c40f42",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150881e31c39d7f1fe841",
+    "copyId": "k0004",
+    "book": "61df66fae6234f0096c40f42",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888786054ceb862716",
+    "copyId": "k0005",
+    "book": "61df66fae6234f0096c40f42",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f3c845e789319c47",
+    "copyId": "k0006",
+    "book": "61df66faee0bba61629c9a79",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508820ea686a399d98a3",
+    "copyId": "k0007",
+    "book": "61df66faee0bba61629c9a79",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881f819f1a8d2886ee",
+    "copyId": "k0008",
+    "book": "61df66faee0bba61629c9a79",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088fbef98045b2aea9f",
+    "copyId": "k0009",
+    "book": "61df66faa478f282048ad10a",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883628dfb4a1e33d96",
+    "copyId": "k0010",
+    "book": "61df66faa478f282048ad10a",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887cf3d3ef8eb5f35b",
+    "copyId": "k0011",
+    "book": "61df66faa478f282048ad10a",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884149798344445e36",
+    "copyId": "k0012",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881128f1fc8a474b56",
+    "copyId": "k0013",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508844fd8393f36cf344",
+    "copyId": "k0014",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881858e500334f0480",
+    "copyId": "k0015",
+    "book": "61df66facf2d681bdefff019",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088a9f4eb67f57a9537",
+    "copyId": "k0016",
+    "book": "61df66facf2d681bdefff019",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150886a20a3b5838f821d",
+    "copyId": "k0017",
+    "book": "61df66facf2d681bdefff019",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088c536f9a610313924",
+    "copyId": "k0018",
+    "book": "61df66fad034112f90666f5d",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150885261b8b299637427",
+    "copyId": "k0019",
+    "book": "61df66fad034112f90666f5d",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f8bb9a9530f35446",
+    "copyId": "k0020",
+    "book": "61df66fad034112f90666f5d",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889b1ecfdc1c10632b",
+    "copyId": "k0021",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887a296cc1470857fb",
+    "copyId": "k0022",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ad087f11e331883c",
+    "copyId": "k0023",
+    "book": "61df66fa1ea490050f8812b3",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508897ac17f07a587fe0",
+    "copyId": "k0024",
+    "book": "61df66fa832d8d63ba045bec",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881cf3030526446f24",
+    "copyId": "k0025",
+    "book": "61df66fa832d8d63ba045bec",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881e9dda91bd7a5163",
+    "copyId": "k0026",
+    "book": "61df66fa832d8d63ba045bec",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150884a2d7fff136f6945",
+    "copyId": "k0027",
+    "book": "61df66fa84ee4bebc810364d",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088c638e68442556136",
+    "copyId": "k0028",
+    "book": "61df66fa84ee4bebc810364d",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150883e2d5ed936ed05a0",
+    "copyId": "k0029",
+    "book": "61df66fa84ee4bebc810364d",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e15088675cc8447668c687",
+    "copyId": "l0000",
+    "book": "61df66fa52401b08a8b6ce14",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150880c338158c2339172",
+    "copyId": "l0001",
+    "book": "61df66fa52401b08a8b6ce14",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088406fcf5209e656ed",
+    "copyId": "l0002",
+    "book": "61df66fa52401b08a8b6ce14",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889f9eb528b967d637",
+    "copyId": "l0003",
+    "book": "61df66fa8ab562017c11f1da",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088255ea72792616ef2",
+    "copyId": "l0004",
+    "book": "61df66fa8ab562017c11f1da",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088b3928e57d0a763e6",
+    "copyId": "l0005",
+    "book": "61df66fa8ab562017c11f1da",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508826387515f2003c3c",
+    "copyId": "l0006",
+    "book": "61df66fa4a3905c624bc94ca",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150882790cec2e29c3754",
+    "copyId": "l0007",
+    "book": "61df66fa4a3905c624bc94ca",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883c69b9d0c0b32560",
+    "copyId": "l0008",
+    "book": "61df66fa4a3905c624bc94ca",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150882ddec38734e3ce9c",
+    "copyId": "l0009",
+    "book": "61df66fa3e63461bdf333a94",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888ef85520301985a7",
+    "copyId": "l0010",
+    "book": "61df66fa3e63461bdf333a94",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088a7bbc326ba4dab46",
+    "copyId": "l0011",
+    "book": "61df66fa3e63461bdf333a94",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508871b17134e7b6dd1f",
+    "copyId": "l0012",
+    "book": "61df66fa3979f8bc56b4c981",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883dcfad6831d6687c",
+    "copyId": "l0013",
+    "book": "61df66fa3979f8bc56b4c981",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088df3bd4d73398c8b9",
+    "copyId": "l0014",
+    "book": "61df66fa3979f8bc56b4c981",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e365cad204b700f5",
+    "copyId": "l0015",
+    "book": "61df66fa5dd070f1a31cce74",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088efacf0022b19bd1a",
+    "copyId": "l0016",
+    "book": "61df66fa5dd070f1a31cce74",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088748bb06048c3e13d",
+    "copyId": "l0017",
+    "book": "61df66fa5dd070f1a31cce74",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088c9dcb1b7720c97a1",
+    "copyId": "l0018",
+    "book": "61df66fad5628cd4b1fb7766",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150883a52742259a3ca89",
+    "copyId": "l0019",
+    "book": "61df66fad5628cd4b1fb7766",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088566e6f2e53d8f89a",
+    "copyId": "l0020",
+    "book": "61df66fad5628cd4b1fb7766",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508826a6a4239e0544a5",
+    "copyId": "l0021",
+    "book": "61df66fa102eb355e23c40ad",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508856b7d8ec530d7088",
+    "copyId": "l0022",
+    "book": "61df66fa102eb355e23c40ad",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150882697625520fe1b0d",
+    "copyId": "l0023",
+    "book": "61df66fa102eb355e23c40ad",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088df1b8aa5491ad255",
+    "copyId": "l0024",
+    "book": "61df66fa859c2477c98283f0",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e41a543c48fe9e62",
+    "copyId": "l0026",
+    "book": "61df66fa859c2477c98283f0",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887e91a80b73a6c84c",
+    "copyId": "l0027",
+    "book": "61df66faf559f210481ae5e9",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150881d3e06008bd3228f",
+    "copyId": "l0028",
+    "book": "61df66faf559f210481ae5e9",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e150889e8a2f0ac9d49cef",
+    "copyId": "l0029",
+    "book": "61df66faf559f210481ae5e9",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e15088f366153d84a49284",
+    "copyId": "m0000",
+    "book": "61df66fa5c42cef169b9f00d",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508821722b4bb518cbb9",
+    "copyId": "m0001",
+    "book": "61df66fa5c42cef169b9f00d",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088d832a5e3758dc214",
+    "copyId": "m0002",
+    "book": "61df66fa5c42cef169b9f00d",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e3e9bb8f312e9962",
+    "copyId": "m0003",
+    "book": "61df66fa7da3b9ca54d3d7c0",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088cd90900ac35914ce",
+    "copyId": "m0004",
+    "book": "61df66fa7da3b9ca54d3d7c0",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088129e90d6ef1dde82",
+    "copyId": "m0005",
+    "book": "61df66fa7da3b9ca54d3d7c0",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150887e8bf8931bae941e",
+    "copyId": "m0006",
+    "book": "61df66fa8f32b39dd370b133",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088ccc8ffc63c290b29",
+    "copyId": "m0007",
+    "book": "61df66fa8f32b39dd370b133",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088a76a5971e7f0f2d7",
+    "copyId": "m0008",
+    "book": "61df66fa8f32b39dd370b133",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508871a61d4f23f39afd",
+    "copyId": "m0009",
+    "book": "61df66fa8f32b39dd370b133",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150883e38faabebc93458",
+    "copyId": "m0010",
+    "book": "61df66fac4cd39390e411b39",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088b995585f90fcbcf0",
+    "copyId": "m0011",
+    "book": "61df66fac4cd39390e411b39",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508835b242e26b5b4d28",
+    "copyId": "m0012",
+    "book": "61df66fac4cd39390e411b39",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150880afe119c34219ad8",
+    "copyId": "m0013",
+    "book": "61df66fae9c1ca468ec6f171",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088ea379d29f9da0a7b",
+    "copyId": "m0014",
+    "book": "61df66fae9c1ca468ec6f171",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889b87879873d6e4f8",
+    "copyId": "m0015",
+    "book": "61df66fae9c1ca468ec6f171",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508828b260c4e7ad13cf",
+    "copyId": "m0016",
+    "book": "61df66fae9c1ca468ec6f171",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e150886b310079e77f6a2b",
+    "copyId": "n0000",
+    "book": "61df66facb51c913f9964785",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888adfca6beb7bd394",
+    "copyId": "n0001",
+    "book": "61df66facb51c913f9964785",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508847b35932504b82bd",
+    "copyId": "n0002",
+    "book": "61df66facb51c913f9964785",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088390ea49cb1277278",
+    "copyId": "n0003",
+    "book": "61df66fa8ddb77ac42e8d7df",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508887aa63c753feb00b",
+    "copyId": "n0004",
+    "book": "61df66fa8ddb77ac42e8d7df",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f5d08d7014777dbc",
+    "copyId": "n0005",
+    "book": "61df66fa8ddb77ac42e8d7df",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508807ef91a8c4d5c495",
+    "copyId": "n0006",
+    "book": "61df66fa0782942b68799089",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088281189706b602c8c",
+    "copyId": "n0007",
+    "book": "61df66fa0782942b68799089",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e489fe11115b1b2e",
+    "copyId": "n0008",
+    "book": "61df66fa0782942b68799089",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150889cc34454b7e9b15f",
+    "copyId": "n0009",
+    "book": "61df66fa57a29ac69917283c",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088f71742e4c867fd29",
+    "copyId": "n0010",
+    "book": "61df66fa57a29ac69917283c",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e150888f1f0728217c6b86",
+    "copyId": "n0011",
+    "book": "61df66fa57a29ac69917283c",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e1508819646ee9afe51a71",
+    "copyId": "n0012",
+    "book": "61df66fa90a79c94c4d2f910",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088648e9a61a06a318a",
+    "copyId": "n0013",
+    "book": "61df66fa90a79c94c4d2f910",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088416b8e213768c8ee",
+    "copyId": "n0014",
+    "book": "61df66fa90a79c94c4d2f910",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+
+  {
+    "_id": "61e150888a91e5216ba81017",
+    "copyId": "o0000",
+    "book": "61df66fab0c9d02a5d37d86e",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088bb478d3b35926fe2",
+    "copyId": "o0001",
+    "book": "61df66fab0c9d02a5d37d86e",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  },
+  {
+    "_id": "61e15088a51e9f28157eca33",
+    "copyId": "o0002",
+    "book": "61df66fab0c9d02a5d37d86e",
+    "printedYear": 2019,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088531ed32b825e10c6",
+    "copyId": "o0003",
+    "book": "61df66fab7cc8a36563a7624",
+    "printedYear": 2020,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e1508859241f2b009cabb0",
+    "copyId": "o0004",
+    "book": "61df66fab7cc8a36563a7624",
+    "printedYear": 2021,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088e48bf310e053aa0f",
+    "copyId": "o0005",
+    "book": "61df66fab7cc8a36563a7624",
+    "printedYear": 2018,
+    "status": "available",
+    "new": true
+  },
+  {
+    "_id": "61e15088b68b816f5f50b01d",
+    "copyId": "o0006",
+    "book": "61df66fa291a1d676c3db861",
+    "printedYear": 2017,
+    "status": "available",
+    "new": false
+  }
+]

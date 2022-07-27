@@ -1,0 +1,34 @@
+.bookStatistic {
+    color: var(--black);
+    .admin {
+        .content {
+            .topBook {
+                margin-top: 20px;
+                margin-left: 20px;
+                .title {
+                    font-weight: bold;
+                }
+                .book {
+                    margin-top: 10px;
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                    grid-gap: 10px;
+                }
+            }
+            .all {
+                font-weight: bold;
+                margin-left: 20px;
+            }
+            .onType, .onNew, .onStatus{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                span {
+                    margin-right: 10px;
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}

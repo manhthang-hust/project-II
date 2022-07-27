@@ -1,0 +1,17 @@
+.pagination {
+    display: flex;
+    margin-bottom: 50px;
+    button {
+        width: 90px;
+        height: 30px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        color: white;
+        background: var(--purple);
+        margin-left: 10px;
+    }
+    .disabled {
+        background: var(--grey);
+    }
+}

@@ -1,0 +1,31 @@
+.update{
+    .modal-content{
+        height: 550px;
+        width: 450px;
+        .inform{
+            color: #000;
+        }
+        .form{
+            display: flex;
+            flex-direction: column;
+            input{
+                width: 420px;
+                margin: 6px;
+                height: 15px;
+                border-radius: 10px;
+                padding: 7px 7px;
+                outline: solid 2px #000;
+                border: none;
+            }
+            select{
+                width: 434px;
+                margin: 6px;
+                height: 28px;
+                padding: 6px 5px;
+                outline: solid 2px #000;
+                border: none;
+                border-radius: 10px;
+            }
+        }   
+    }
+}

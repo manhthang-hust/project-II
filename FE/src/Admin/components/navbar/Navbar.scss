@@ -1,0 +1,25 @@
+.navbarAdmin {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--black);
+    color: white;
+    .logo {
+        margin-left: 5vw;
+    }
+    .logout {
+        margin-right: 5vw;
+        button {
+            width: 100px; 
+            height: 30px;
+            background: var(--purple);
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    }
+}

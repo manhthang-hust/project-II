@@ -1,0 +1,68 @@
+.addBook{
+    .admin{
+        .content{
+            h1{
+                font-size: 24px;
+                margin: 20px 50px;
+            }
+            .right{
+                margin: 0 50px;
+                //float: right;
+                .btn-order{
+                    width: 150px;
+                    float: right;
+                    height: 30px;
+                    background: var(--purple);
+                    color: white;
+                    border: none;
+                    border-radius: 7px;
+                    cursor: pointer;
+                    
+
+                }
+                .add{
+                    margin-right: 10px;              }
+
+            }
+            .select-orders{
+                margin: 20px 50px;
+                width: 150px;
+                display:block;
+            }
+            .btn-download{
+                margin: 5px 50px;
+                width: 150px;
+                height: 30px;
+                background: var(--black);
+                color: white;
+                border: none;
+                border-radius: 7px;
+                cursor: pointer;
+
+            }
+            .table-space{
+                margin: 10px 50px;
+                
+            }
+        }
+    }
+}
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        th, td {
+            border: 1px solid #ffffff;
+            text-align: left;
+            padding: 8px;
+            font-size: 14px;
+        }
+        th {
+            background-color: var(--black);
+            color: white;
+        }
+        td {
+            background-color: #C4C4C4;
+            color: var(--black);
+        }
+    }

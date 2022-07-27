@@ -1,0 +1,29 @@
+.admin {
+  .content {
+    h1 {
+      font-size: 24px;
+      margin: 20px 50px;
+    }
+    input {
+      margin: 10px 50px;
+      width: 387px;
+      height: 34px;
+      background: #ffffff;
+      border: 2px solid #2f2e41;
+      box-sizing: border-box;
+      border-radius: 10px;
+      font-size: 18px;
+      padding-left: 10px;
+    }
+
+    .dataTable {
+      margin: 50px;
+      table {
+        td {
+          background-color: #c4c4c4;
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}

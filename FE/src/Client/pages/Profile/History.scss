@@ -1,0 +1,31 @@
+.containerHistory {
+  .Wrapper {
+    margin: 50px auto;
+    padding: 0px 10vw;
+    .Trhead {
+      display: flex;
+      margin: 20px 0;
+      th {
+        flex: 1;
+      }
+    }
+    .TrBody {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      td {
+        margin: 15px 0;
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        img {
+          width: 100px;
+          height: 120px;
+          border-radius: 10px;
+          filter: drop-shadow(8px 8px 4px rgba(0, 0, 0, 0.25));
+          object-fit: cover;
+        }
+      }
+    }
+  }
+}

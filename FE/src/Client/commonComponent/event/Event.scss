@@ -1,0 +1,13 @@
+.event {
+    margin-bottom: 60px;
+    .container {
+        display: flex;
+        flex-direction: column;
+        .titleEvent {
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .allEvents {
+        }
+    }
+}

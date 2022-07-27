@@ -1,0 +1,22 @@
+.event{
+    .modal-content{
+        height: 550px;
+        width: 450px;
+        .inform{
+            color: #000;
+        }
+        .form{
+            display: flex;
+            flex-direction: column;
+            input{
+                width: 420px;
+                margin: 5px;
+            }
+            select{
+                width: 420px;
+                margin: 5px;
+            }
+        }
+        
+    }
+}

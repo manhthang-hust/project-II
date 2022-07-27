@@ -1,0 +1,54 @@
+.resetpass{
+    
+    .body{
+        display: flex;
+        justify-content: center;
+        .intro{
+            width: 521px;
+            margin-top: 240px;
+            padding-left: 50px;
+            font-size: 20px;
+            display: block;
+            h1{
+                color: #6C63FF; 
+            }
+        }
+        .form{
+            margin-top: 175px;
+            width: 501px;
+            min-height: 230px;
+            display: flex;
+            flex-direction: column;
+            border: 3px solid #3F3D56;
+            border-radius: 25px;
+            align-items: inherit;
+            input{
+                height: 35px;
+                padding-left: 48px;
+                margin: 15px 38px 0px 38px;
+                border: 2px solid #000;
+                box-sizing: border-box;
+                border-radius: 25px;
+                width: auto;
+            }
+            
+                
+            button{
+                height: 35px;
+                padding: 7px;
+                margin: 28px 38px 15px 38px;
+                border: 1px solid #000;
+                box-sizing: border-box;
+                border-radius: 25px;
+                background-color: #6C63FF;
+                color: #fff;
+            }
+            
+            button:hover{
+                cursor: pointer;
+            }
+        }
+        
+    }
+
+}

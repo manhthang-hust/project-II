@@ -1,0 +1,32 @@
+.book {
+    .link {
+        text-decoration: none;
+    }
+    .inner {
+        width: 130px;
+        .top {
+            height: 170px;
+            transition: all 0.3s ease;
+            img {
+                width: 100%;
+                height: 100%;
+                cursor: pointer;
+            }
+            &:hover {
+                -webkit-box-shadow: 1px 1px 5px 0px #000000; 
+                box-shadow: 1px 1px 5px 0px #000000;
+            }
+        }
+        .bottom {
+            .info {
+                p {
+                    text-align: center;
+                    font-size: 12px;
+                    font-weight: bold;
+                    cursor: pointer;
+                    color: var(--black);
+                }
+            }
+        }
+    }
+}

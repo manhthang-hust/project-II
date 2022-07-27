@@ -1,0 +1,34 @@
+.footer{
+    width: 100%;
+    height: 120px;
+    background: var(--black);
+    display: flex;
+    flex-direction: row;
+    color: white;
+    
+    .footer-col1{
+        width: 25%;
+        text-align: right;
+        margin: auto 0;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .footer-col2{
+        width: 25%;
+        margin: auto 30px;
+        font-size: 12px;
+    }
+    .footer-col3{
+        width: 50%;
+        text-align: center;
+        margin: auto 0;
+        div{
+            margin-top: 5px;
+            a{
+                margin-left: 5px;
+                margin-right: 10px;
+                color: white;
+            }
+        }
+    }
+}

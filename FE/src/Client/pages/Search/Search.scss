@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 40px;
+    h1{
+        font-size: 26px;
+    }
+    .listbook{
+        display: flex;
+        flex-direction: row;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        grid-gap: 15px;
+        .inner {
+            width: 130px;
+            margin-right:15px;
+            margin-top: 20px; 
+            
+            .top {
+                height: 170px;
+                transition: all 0.3s ease;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    cursor: pointer;
+                    object-fit: cover;
+                }
+                &:hover {
+                    -webkit-box-shadow: 1px 1px 5px 0px #000000; 
+                    box-shadow: 1px 1px 5px 0px #000000;
+                }
+            }
+            .bottom {
+                .info {
+                    p {
+                        margin:5px;
+                        text-align: center;
+                        font-size: 16px;
+                        font-weight: bold;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+}

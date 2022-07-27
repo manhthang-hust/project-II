@@ -1,0 +1,21 @@
+.paginationUser {
+    
+    margin: 0px 45px 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    button {
+       
+        width: 90px;
+        height: 30px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        color: white;
+        background: var(--purple);
+        right: 30px;
+       
+    }
+    .disabled {
+        background: var(--grey);
+    }
+}

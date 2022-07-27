@@ -1,0 +1,44 @@
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.dataTable {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 90px;
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        th, td {
+            border: 1px solid #ffffff;
+            text-align: left;
+            padding: 8px;
+            font-size: 14px;
+        }
+        th {
+            background-color: var(--black);
+            color: white;
+        }
+        td {
+            background-color: var(--grey);
+            color: var(--black);
+        }
+        button {
+            border: none;
+            background: var(--purple);
+            width: 80px;
+            height: 30px;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    }
+    
+}

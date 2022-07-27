@@ -1,0 +1,102 @@
+.profile {
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  .wrapper {
+   
+    .pro_container {
+      font-size: 16px;
+      margin: 45px auto;
+      width: 50%;
+      border: 3px solid #000;
+      border-radius: 20px;
+      // background-color: red;
+      .form {
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        .mb-3 {
+          display: flex;
+          margin-bottom: 7px;
+          width: 100%;
+          .label {
+            padding: 5px;
+            flex:3;
+            // background-color: #6c63ff;
+          }
+          .control {
+            flex: 7;
+            height: 100%;
+            border-radius: 15px;
+            font-size: 14px;
+            border: 1px solid #000;
+            padding: 2px 15px;
+            font-weight: bold;
+            
+            
+          }
+          .button {
+            position: absolute;
+            left: calc(28%);
+            bottom: 0;
+            background-color: #6c63ff;
+            margin-left: 15px;
+            font-size: 14px;
+            border-radius: 15px;
+            color: white;
+            width: 65px;
+            height: 28px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            padding: 2px;
+            border: none;
+            &:hover {
+              -webkit-box-shadow: 1px 1px 5px 0px #6c63ff; 
+              box-shadow: 1px 1px 5px 0px #6c63ff;
+          }
+          }
+          .type{
+            box-sizing: border-box;
+            font-size: 16px;
+            padding: 3px;
+            height: 28px;
+            color: white;
+            background-color: #6c63ff;
+            &:hover {
+              -webkit-box-shadow: 1px 1px 5px 0px #6c63ff; 
+              box-shadow: 1px 1px 5px 0px #6c63ff;
+          }
+          .extendCard{
+            width: 80px;
+          }
+        }}
+      }
+      .updatecontainer {
+        width: 100%;
+        height: 27px;
+        // background-color: chartreuse;
+        position: relative;
+        .buttonupdate {
+          position: absolute;
+          right: 20px;
+          bottom: 10px;
+          font-size: 16px;
+          padding: 5px 10px;
+          margin-top: 7px;
+          background: #6c63ff;
+          border-radius: 20px;
+          color: White;
+          cursor: pointer;
+          border: none;
+          &:hover {
+            -webkit-box-shadow: 1px 1px 5px 0px #6c63ff; 
+            box-shadow: 1px 1px 5px 0px #6c63ff;
+        }
+          
+        }
+      }
+    }
+  }
+}

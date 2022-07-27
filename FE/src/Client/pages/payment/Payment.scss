@@ -1,0 +1,83 @@
+.payment {
+    .wrapper {
+        .body {
+            padding: 0 10vw;
+            margin-top: 20px;
+            .addr {
+                position: relative;
+                width: 100%;
+                height: 100px;
+                background-color: whitesmoke;
+                .title {
+                    position: absolute;
+                    top: 10px;
+                    left: 10px;
+                    display: flex;
+                    align-items: center;
+                    span {
+                        margin-left: 20px;
+                        font-weight: bold;
+                    }
+                }
+                .info {
+                    .user {
+                        width: 80%;
+                        position: absolute;
+                        bottom: 10px;
+                        left: 15px;
+                        display: flex;
+                        justify-content: space-between;
+                    }
+                    .icon {
+                        position: absolute;
+                        bottom: 10px;
+                        right: 10px;
+                        cursor: pointer;
+                    }
+                }
+            }
+            .copy {
+                position: relative;
+                width: 100%;
+                height: 300px;
+                background-color: whitesmoke;
+                margin-top: 30px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                .book {
+                    margin-left: 30px;
+                    display: flex;
+                    img {
+                        width: 130px;
+                        height: 180px;
+                        object-fit: cover;
+                    }
+                    .bookInfo {
+                        .bn {
+                            font-size: 14px;
+                            font-weight: bold;
+                            margin-bottom: 10px;
+                        }
+                        display: flex;
+                        flex-direction: column;
+                        margin-left: 30px;
+                        font-size: 12px;
+                    }
+                }
+                button {
+                    position: absolute;
+                    right: 30px;
+                    bottom: 30px;
+                    border: none;
+                    background: var(--purple);
+                    width: 100px;
+                    height: 40px;
+                    color: white;
+                    border-radius: 10px;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}

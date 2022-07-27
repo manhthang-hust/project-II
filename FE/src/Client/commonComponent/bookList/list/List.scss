@@ -1,0 +1,13 @@
+.list {
+    margin-top: 40px;
+    width: 100%;
+    .title {
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .bookList {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        grid-gap: 15px;
+    }
+}

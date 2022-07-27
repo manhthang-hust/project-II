@@ -1,0 +1,47 @@
+.cardRenew {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: white;
+  border-radius: 10px;
+  padding: 14px 28px;
+  width: 370px;
+  height: 220px;
+  .cardC {
+    padding: 20px;
+    .selectCard {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      height: 40px;
+      align-items: center;
+      margin: 15px;
+      .pricecard{
+          display: flex;
+          flex-direction: row;
+          font-size: 20px;
+      }
+    }
+    .buttonS {
+      padding: 10px;
+      float: right;
+      margin-right: 15px;
+      button {
+        font-size: 16px;
+          padding: 5px 10px;
+          margin-right: 10px;
+         
+          border-radius: 10px;
+          
+          cursor: pointer;
+          border: none;
+          &:hover {
+            -webkit-box-shadow: 1px 1px 5px 0px #6c63ff; 
+            box-shadow: 1px 1px 5px 0px #7872eb;
+        }
+      }
+    }
+  }
+}

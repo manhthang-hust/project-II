@@ -1,0 +1,1116 @@
+[
+  {
+    "_id": "5c88fa8cf4afda39709c2953",
+    "name": "One-Punch Man",
+    "image": "book-1.jpg",
+    "description": "One-Punch Man là loạt tác phẩm siêu anh hùng Nhật Bản xuất phát điểm là web manga do ONE tạo ra vào năm 2009. Nội dung của loạt manga xoay quanh một siêu anh hùng tên là Saitama, anh có khả năng đánh bại bất cứ đối thủ nào chỉ bằng một cú đấm.",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "ONE, Murata Yusuke",
+    "registerUsers": [
+      "5c8a1dfa2f8fb814b56fa181",
+      "5c8a1e1a2f8fb814b56fa182",
+      "5c8a1ec62f8fb814b56fa183"
+    ],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2952",
+    "name": "Doraemon, Nobita và Những bạn khủng long mới",
+    "image": "book-2.jpg",
+    "description": "Trong lúc đang tham gia hoạt động khảo cổ ở một cuộc triễn lãm khủng long, Nobita tình cờ tìm thấy một viên hóa thạch và cậu tin rằng đây là trứng khủng long. Nobita liền mượn bảo bối thần kỳ khăn trùm thời gian của Doraemon để giúp viên hóa thạch trở lại thời của chúng nhưng ngay sau đó, quả trứng liền nở ra một cặp khủng long song sinh. Ngạc nhiên hơn hết, đây lại là loài khủng long mới hoàn toàn và chưa từng được phát hiện.",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "Fujiko Fujio",
+    "registerUsers": [
+      "5c8a1dfa2f8fb814b56fa181",
+      "5c8a1f4e2f8fb814b56fa185",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a20d32f8fb814b56fa187"
+    ],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df66faf4a274b60472c665",
+    "name": "Thanh gươm diệt quỷ",
+    "image": "book-3.jpg",
+    "description": "Kimetsu no Yaiba là một bộ truyện tranh Nhật Bản của tác giả Gotōge Koyoharu. Bộ truyện tranh này đã được đăng theo kỳ trên Weekly Shōnen Jump từ số phát hành tháng 2 năm 2016 đến tháng 5 năm 2020 và sau đó các chương truyện được tổng hợp đưa vào 21 cuốn tankōbon",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "Gotōge Koyoharu",
+    "registerUsers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c295c",
+    "name": "Shin - Cậu bé bút chì",
+    "image": "book-4.jpg",
+    "description": "Crayon Shin-chan là một bộ manga Nhật Bản được sáng tác và minh họa Usui Yoshito sáng tác và minh họa. Nội dung kể xoay quanh cậu bé Shin với những câu chuyện về cuộc sống hàng ngày cùng với bố mẹ, em gái, chú chó Bạch Tuyết, bạn bè, hàng xóm, họ hàng thân quen và những nhân vật khác",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "Shin-Ei Animation",
+    "registerUsers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a24a02f8fb814b56fa193",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a24822f8fb814b56fa192",
+      "5c8a245f2f8fb814b56fa191"
+    ],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df64edc094e860d76057ab",
+    "name": "Thần đồng Đất Việt",
+    "image": "book-5.jpg",
+    "description": "Thần đồng Đất Việt là một bộ truyện tranh thiếu nhi Việt Nam do họa sĩ Lê Linh sáng tác và phát hành bởi công ty Phan Thị cùng với sự phối hợp của nhà xuất bản Trẻ. Tập truyện đầu tiên mang tên Pháp sư gọi bưởi được phát hành ngày 16 tháng 2 năm 2002 cho đến tập 78 Âm mưu độc dược",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "Lê Linh",
+    "registerUsers": [
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a24822f8fb814b56fa192",
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23de2f8fb814b56fa18e"
+    ],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df66fa3909f44bb91ff4f4",
+    "name": "Nanatsu No Taizai - Thất Hình Đại Tội",
+    "image": "book-6.jpg",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "description": "“Thất đại ác nhân”, một nhóm chiến binh có tham vọng lật đổ vương quốc Britannia, được cho là đã bị tiêu diệt bởi các “hiệp sĩ thánh chiến” mặc dù vẫn còn 1 số người cho rằng họ vẫn còn sống.",
+    "author": "Suzuki Nakaba",
+    "registerUsers": ["5c8a201e2f8fb814b56fa186", "5c8a23de2f8fb814b56fa18e"],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df66fa943be04c3151c7de",
+    "name": "Tokiro",
+    "image": "book-7.jpg",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "description": "Toriko (トリコ) là loạt manga được thực hiện bởi Shimabukuro Mitsutoshi. Tác phẩm đã đăng trên tạp chí Weekly Shōnen Jump từ ngày 19 tháng 5 năm 2008. Cốt truyện xoay quanh Toriko một thợ săn ẩm thực với sức mạnh phi thường cùng kiến thức rất rộng về thiên nhiên đang tìm kiếm những món ăn ngon nhất thế giới để thêm vào danh sách các món ăn trong bữa ăn để đời của mình.",
+    "author": "Shimabukuro Mitsutoshi",
+    "registerUsers": ["5c8a201e2f8fb814b56fa186", "5c8a24822f8fb814b56fa192"],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df66fa6f1befd958bc3c24",
+    "name": "Người Trong Giang Hồ",
+    "image": "book-8.jpg",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "description": "Người Trong Giang Hồ là bộ truyện tranh nổi tiếng Cổ Hoặc Tử - Teddy Boy! Truyện đạt kỷ lục bộ truyện tranh dài nhất thế giới! Thế giới truyện rộng lớn, tình tiết ly kỳ, cao trào, nhiều nét đột phá, truyện tả thật thế giới xã hội đen Hongkong, mặt xấu ác lòng người, hiệp nghĩa can trường, huynh đệ tình thân…",
+    "author": "Ngưu Lão",
+    "registerUsers": ["5c8a201e2f8fb814b56fa186", "5c8a24282f8fb814b56fa18f"],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "61df66fa155d32f2a68ab57a",
+    "name": "Kingdom - Vương Giả Thiên Hạ",
+    "image": "book-9.jpg",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "description": "Vương giả thiên hạ hay Kingdom trong tiếng Anh là một bộ truyện tranh Nhật Bản được sáng tác và minh họa bởi Hara Yasuhisa",
+    "author": "Hara Yasuhisa",
+    "registerUsers": ["5c8a23de2f8fb814b56fa18e"],
+    "category": "5c88fa8cf4afda39709c2955"
+  },
+
+  {
+    "_id": "61df64f3373937ce2d1dcf88",
+    "name": "Mật mã Da Vinci",
+    "image": "book-11.jpg",
+    "description": "Mật mã Da Vinci là một tiểu thuyết của nhà văn người Mỹ Dan Brown được xuất bản năm 2003 bởi nhà xuất bản Doubleday Fiction. Đây là một trong số các quyển sách bán chạy nhất thế giới với trên 40 triệu quyển được bán ra, và đã được dịch ra 44 ngôn ngữ.",
+    "publisher": "Nhà xuất bản Doubleday Fiction",
+    "author": "Dan Brown",
+    "registerUsers": ["5c8a24282f8fb814b56fa18f", "5c8a23c82f8fb814b56fa18d"],
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "61df64f9abf2a830249ab62b",
+    "name": "Những cuộc phiêu lưu của Sherlock Holmes",
+    "image": "book-12.jpg",
+    "description": "The Adventures of Sherlock Holmes là tập hợp mười hai truyện ngắn của Arthur Conan Doyle, xuất bản lần đầu vào ngày 14 tháng 10 năm 1892. Nó chứa những truyện ngắn đầu tiên có thám tử tư vấn Sherlock Holmes, được xuất bản trong mười hai số của Tạp chí The Strand từ Tháng 7 năm 1891 đến tháng 6 năm 1892.",
+    "publisher": "Nhà Xuất Bản Ward Lock & Co",
+    "author": "Arthur Conan Doyle",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23c82f8fb814b56fa18d",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "61df66fa5d3bc083ef8698bb",
+    "name": "Án mạng trên chuyến tàu tốc hành Phương Đông",
+    "image": "book-13.jpg",
+    "description": "Án mạng trên chuyến tàu tốc hành Phương Đông là một tiểu thuyết hình sự của nhà văn Agatha Christie được nhà xuất bản Collins Crime Club phát hành lần đầu tại Anh ngày 1 tháng 1 năm 1934",
+    "publisher": "Nhà Xuất Bản Collins Crime Club",
+    "author": " Agatha Christie",
+    "registerUsers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23c82f8fb814b56fa18d",
+      "5c8a22c62f8fb814b56fa18b"
+    ],
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "61df66fa3de7fdb345fe921a",
+    "name": "Án mạng trên sông Nile",
+    "image": "book-14.jpg",
+    "description": "Án mạng trên sông Nile là một tiểu thuyết hình sự của nhà văn Agatha Christie được hãng Collins Crime Club xuất bản lần đầu tại Anh ngày 1 tháng 11 năm 1937. Tác phẩm nói về vụ án mạng xảy ra tại một con tàu du lịch trên sông Nile trong thời gian thám tử Hercule Poirot đi nghỉ ở Ai Cập.",
+    "publisher": "Nhà Xuất Bản Collins Crime Club",
+    "author": "Agatha Christie",
+    "registerUsers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23c82f8fb814b56fa18d",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a23de2f8fb814b56fa18e"
+    ],
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "61df66fa7fa913a05501229a",
+    "name": "Sự Im Lặng Của Bầy Cừu",
+    "image": "book-15.jpg",
+    "description": "The Silence of the Lambs là một tiểu thuyết kinh dị tâm lý của Thomas Harris. Được xuất bản lần đầu tiên vào năm 1988, đây là phần tiếp theo của cuốn tiểu thuyết Rồng Đỏ năm 1981 của Harris",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Thomas Harris",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a23de2f8fb814b56fa18e"
+    ],
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "61df66fa3654e57e8a5bdc4f",
+    "name": "Án Tử Một Tình Yêu - The Death Of A Love",
+    "image": "book-16.jpg",
+    "description": "Một thiếu nữ mới hai mươi ba tuổi thế nhưng đã phải kết thúc cuộc đời tươi đẹp của mình, bước chân ngừng lại trong chốn lao tù… Vân Du đã giết hại hai mạng người, vừa vào Trại giam lại có định tự sát…",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Võ Anh Thơ",
+    "isVIP": true,
+    "category": "5c88fa8cf4afda39709c2951",
+    "registerUsers": ["5c8a21d02f8fb814b56fa189", "5c8a22c62f8fb814b56fa18b"]
+  },
+  {
+    "_id": "61df66fa21f907977c55df70",
+    "name": "Vụ Bí Ẩn: Con Ngựa Không Đầu",
+    "image": "book-17.jpg",
+    "description": "Thưa các bạn đọc giả, đây là một câu chuyện phiêu lưu mới của Ba Thám Tử Trẻ, nhóm bạn năng động thích điều tra mà tôi luôn thích thú được kể cho các bạn nghe. Ba cậu vừa mới giải được một vụ bí ẩn vừa độc đáo vừa bổ ích. Tôi nghĩ câu chuyện đáng để các bạn quan tâm.",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Alfred Hitchcock",
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+
+  {
+    "_id": "61df66fa81ab9986c8272842",
+    "name": "Vụ Bí Ẩn: Vòng Tròn Thần Bí",
+    "image": "book-18.jpg",
+    "description": "Một trong những tác phẩm thuộc series “Vụ Bí Ẩn” của nhà văn trinh thám nổi tiếng Alfred Hitchcock.",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Alfred Hitchcock",
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+
+  {
+    "_id": "61df66fa8ad1bc078f6733d2",
+    "name": "Vụ Bí Ẩn: Bắt Cóc Cá Voi",
+    "image": "book-19.jpg",
+    "description": "Câu chuyện mà các bạn sắp đọc - tôi hy vọng rằng các bạn sẽ đọc - không có liên quan gì (hay hầu như không có) đến câu chuyện về vài người bạn của tôi: Ba Thám Tử Trẻ, là tên mà ba bạn này tự phong. Vậy tốt nhất là bắt đầu giới thiệu ba bạn này. ",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Alfred Hitchcock",
+    "category": "5c88fa8cf4afda39709c2951"
+  },
+
+  {
+    "_id": "61df64e4bfb5f693acfbeab4",
+    "name": "Đắc nhân tâm",
+    "image": "book-21.jpg",
+    "description": "Đắc nhân tâm, tên tiếng Anh là How to Win Friends and Influence People là một quyển sách nhằm tự giúp bản thân bán chạy nhất từ trước đến nay. Quyển sách này do Dale Carnegie viết và đã được xuất bản lần đầu vào năm 1936, nó đã được bán 15 triệu bản trên khắp thế giới.",
+    "publisher": "Nhà Xuất Bản Simon and Schuster",
+    "author": "Dale Carnegie",
+    "registerUsers": [
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a23de2f8fb814b56fa18e",
+      "5c8a1ec62f8fb814b56fa183"
+    ],
+    "category": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "61df66fad0d89493f1ef8834",
+    "name": "Đừng đi ăn một mình",
+    "image": "book-22.jpg",
+    "description": "Trong Đừng đi ăn một mình, Keith Ferrazzi, một doanh nhân thành đạt đồng thời là chuyên gia marketing sẽ tiết lộ cho chúng ta những bí quyết để thành công trong việc kết nối với mọi người. Tác giả tập trung xây dựng những mối quan hệ lâu dài thay vì chỉ trao đổi danh thiếp như nhiều người vẫn nghĩ về việc networking hiện nay. Tác giả tổng kết những phát hiện thông qua một hệ thống các phép thử.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Keith Ferrazzi",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a1dfa2f8fb814b56fa181",
+      "5c8a23de2f8fb814b56fa18e"
+    ],
+    "category": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "61df66facd0a7056e46e5b72",
+    "name": "Tuổi trẻ đáng giá bao nhiêu?",
+    "image": "book-23.jpg",
+    "description": "Tuổi trẻ đáng giá bao nhiêu là cuốn sách không nặng nề giáo điều, không chỉ trích cực đoan, đơn giản chỉ là những tâm sự bình dị của người đi trước, Rosie Nguyễn mang đến cho bạn trẻ những tư tưởng tích cực nhất để mạnh mẽ bước chân vào đời.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Rosie Nguyễn",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "category": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "61df66fa1bced18e34079a51",
+    "name": "Suy nghĩ và làm giàu",
+    "image": "book-24.jpg",
+    "description": "Think and Grow Rich là cuốn sách được viết bởi Napoleon Hill vào năm 1937 và được quảng bá là một cuốn sách giúp phát triển cá nhân và tự lực bán chạy nhất thế giới. Ông nói rằng mình được truyền cảm hứng từ một lời gợi ý của doanh nhân và nhà bác ái Andrew Carnegie.",
+    "publisher": "Nhà Xuất Bản The Ralston Society",
+    "author": "Napoleon Hill",
+    "registerUsers": ["5c8a20d32f8fb814b56fa187", "5c8a211f2f8fb814b56fa188"],
+    "category": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "61df66fa44a8a20f4ca054df",
+    "name": "Quẳng gánh lo đi và vui sống",
+    "image": "book-25.jpg",
+    "description": "Quẳng gánh lo đi và vui sống là một sách tự lực của tác giả người Mỹ Dale Carnegie, được viết vào năm 1948. Bản Việt Ngữ do Nguyễn Hiến Lê dịch năm 1955 tại Sài Gòn và đưa vào tủ sách Học làm người. Quyển sách này là một cẩm nang về cách làm việc và vui sống không bị lo âu.",
+    "publisher": "Nhà Xuất Bản Simon and Schuster",
+    "author": "Dale Carnegie",
+    "registerUsers": ["5c8a21d02f8fb814b56fa189"],
+    "category": "5c88fa8cf4afda39709c295a"
+  },
+
+  {
+    "_id": "61df66fa5e6147a5b1fc0c31",
+    "name": "Nhà giả kim",
+    "image": "book-31.jpg",
+    "description": "Nhà giả kim là tiểu thuyết được xuất bản lần đầu ở Brasil năm 1988, và là cuốn sách nổi tiếng nhất của nhà văn Paulo Coelho. Tác phẩm đã được dịch ra 67 ngôn ngữ và bán ra tới 95 triệu bản, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Paulo Coelho",
+    "registerUsers": ["5c8a23c82f8fb814b56fa18d"],
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fa86adaa72ae7a9a74",
+    "name": "Bố già",
+    "image": "book-32.jpg",
+    "description": "Bố già là tên một cuốn tiểu thuyết nổi tiếng của nhà văn người Mỹ gốc Ý Mario Puzo được xuất bản lần đầu vào năm 1969 bởi nhà xuất bản G. P. Putnam's Sons. Tác phẩm là câu chuyện về một gia đình mafia gốc Sicilia tại Mỹ được tạo lập và lãnh đạo bởi một nhân vật được gọi là \"Bố già\" Don Vito Corleone.",
+    "publisher": "Nhà Xuất Bản G. P. Putnam's Sons",
+    "author": "Mario Puzo",
+    "registerUsers": ["5c8a1f4e2f8fb814b56fa185", "5c8a23412f8fb814b56fa18c"],
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fa7da7823053491376",
+    "name": "Tôi thấy hoa vàng trên cỏ xanh",
+    "image": "book-33.jpg",
+    "description": "Tôi thấy hoa vàng trên cỏ xanh là một tiểu thuyết dành cho thanh thiếu niên của nhà văn Nguyễn Nhật Ánh, xuất bản lần đầu tại Việt Nam vào ngày 9 tháng 12 năm 2010 bởi Nhà xuất bản Trẻ, với phần tranh minh họa do Đỗ Hoàng Tường thực hiện.",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Nguyễn Nhật Ánh",
+    "registerUsers": ["5c8a1f4e2f8fb814b56fa185"],
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66faa66a41b46583fd9d",
+    "name": "Trường Ca Achilles",
+    "image": "book-34.jpg",
+    "description": "Dựa trên nền tảng của sử thi Iliad, câu chuyện về cuộc chiến thành Troy vĩ đại đã được Madeline Miller kể lại với tiết tấu dồn dập, lôi cuốn, và không kém phần xúc động, đánh dấu sự khởi đầu của một sự nghiệp rực rỡ.",
+    "publisher": "Nhà Xuất Bản Kim Đồng",
+    "author": "Madeline Miller",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fab186b3118c86c973",
+    "name": "Hố",
+    "image": "book-35.jpg",
+    "publisher": "Nhà Xuất Bản Kim Đồng",
+    "description": "câu chuyện về những-người-chẳng-khác-nào-gói-bưu-phẩm, luôn cố cất giấu điều bí mật của mình. Họ tự bao bọc mình trong nhiều lớp giấy cho đến khi có một ai đó thích hợp xuất hiện và mở lớp vỏ bọc kia ra, để khám phá những điều bí ẩn bên trong… Và đôi khi bạn cũng cần được một người nào đấy giúp “tháo gỡ” để biết được con người thật của mình…",
+    "author": "Louis Sachar",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fa7060ddcfa459e237",
+    "name": "Món Quà Bí Ẩn",
+    "image": "book-36.jpg",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "description": "Khi cô sinh viên y tá Tara McAllister bị cô bạn thân Cassy rủ rê đến Lễ hội Phục hưng tại một chốn khỉ ho cò gáy ở Californina, cô gần như không mong đợi điều gì khác ngoài sự thất vọng.",
+    "author": "Catherine Bybee",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fac90b8be4baf92924",
+    "name": "Phía Sau Một Lời Thề",
+    "image": "book-37.jpg",
+    "description": "Ở trại Hồ Xanh - một vùng đất khô cằn - tất cả những đứa trẻ được cho là hư hỏng như Stanley phải đào những cái hồ từ ngày này sang ngày khác, báo lại tất cả những gì chúng tìm được. Quản giáo ở trại bảo rằng chúng phải đào để bồi dưỡng nhân cách. Nhưng mọi chuyện có phải chỉ đơn giản như vậy? Stanley dần nhận ra bên dưới những cái hố chứa đựng một sự thật đã được chôn giấu hơn trăm năm qua, từ những ngày Hồ Xanh còn đầy ắp nước trong veo…",
+    "publisher": "Nhà Xuất Bản Kim Đồng",
+    "author": "Louis Sachar",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66faee265b0e9b425df2",
+    "name": "Thề Ước Thầm Lặng",
+    "image": "book-38.jpg",
+    "description": "Ở trại Hồ Xanh - một vùng đất khô cằn - tất cả những đứa trẻ được cho là hư hỏng như Stanley phải đào những cái hồ từ ngày này sang ngày khác, báo lại tất cả những gì chúng tìm được. Quản giáo ở trại bảo rằng chúng phải đào để bồi dưỡng nhân cách. Nhưng mọi chuyện có phải chỉ đơn giản như vậy? Stanley dần nhận ra bên dưới những cái hố chứa đựng một sự thật đã được chôn giấu hơn trăm năm qua, từ những ngày Hồ Xanh còn đầy ắp nước trong veo…",
+    "publisher": "Nhà Xuất Bản Kim Đồng",
+    "author": "Louis Sachar",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "61df66fa636ec6015fba681c",
+    "name": "Điệu Waltz Dưới Ánh Trăng",
+    "image": "book-39.jpg",
+    "publisher": "Nhà Xuất Bản Lạc Đồng",
+    "description": "Thích một người thì cần rất lâu, nhưng yêu một người thì một giây là đủ. Chỉ trong nháy mắt, chủ trang trại giàu có Rayan Kendrick đã rơi vào lưới tình khó gỡ với cô gái đáng yêu Bethany Coulter.",
+    "author": "Catherine Anderson",
+    "category": "5c88fa8cf4afda39709c2961"
+  },
+
+  {
+    "_id": "61df66faae0fb47c3946154d",
+    "name": "Lược sử vạn vật",
+    "image": "book-41.jpg",
+    "description": "Lược sử vạn vật là cuốn sách phổ biến khoa học trình bày một cách ngắn gọn lịch sử nghiên cứu khoa học tự nhiên, những thành tựu khoa học trong các lĩnh vực khoa học tự nhiên chính: vật lý, hóa học, sinh học, địa chất, thiên văn… với nhiều tên tuổi, giai thoại và sự thật.",
+    "publisher": "Nhà Xuất Bản Alphabooks",
+    "author": "William McGuire",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "61df66fa1258d25fe6411ed7",
+    "name": "Einstein - Cuộc Đời Và Vũ Trụ",
+    "image": "book-42.jpg",
+    "description": "Cuốn sách “Einstein - Cuộc Đời Và Vũ Trụ” khai thác một cách chi tiết và công bố những tư liệu mới nhất về Einstein, làm rõ những giai đoạn, sự kiện và những điểm nổi bật trong cuộc sống cá nhân của Einstein. Ngoài ra sách cũng chỉ ra và làm rõ những chặng trên con đường khoa học của Einstein, cho thấy những suy tư và trăn trở của ông để đưa ra những lý thuyết vật lý làm thay đổi toàn bộ nền vật lý thế kỷ XX, cũng như cuộc tranh luận của ông với các nhà cơ học lượng tử.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Walter Isaacson",
+    "registerUsers": ["5c8a24822f8fb814b56fa192"],
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "61df66fa06d24dfe23a4efd6",
+    "name": "Tế Bào Gốc: Khám Phá Cùng Nhà Khoa Học",
+    "image": "book-43.jpg",
+    "description": "Tuổi trẻ đáng giá bao nhiêu là cuốn sách không nặng nề giáo điều, không chỉ trích cực đoan, đơn giản chỉ là những tâm sự bình dị của người đi trước, Rosie Nguyễn mang đến cho bạn trẻ những tư tưởng tích cực nhất để mạnh mẽ bước chân vào đời.",
+    "publisher": "Nhà Xuất Bản Omega Plus",
+    "author": "Paul Knoepfler",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "61df66fafd706aa4ea7edbe2",
+    "name": "Các Thế Giới Song Song",
+    "image": "book-44.jpg",
+    "description": "Một chuyến du hành đầy trí tuệ qua các vũ trụ, được dẫn dắt tài tình bởi \"thuyền trưởng\" Michio Kaku và độc giả có dịp chiêm ngưỡng vẻ đẹp kỳ vĩ của vũ trụ kể từ vụ nổ lớn, vượt qua những hố đen, lỗ sâu, bước vào các thế giới lượng tử từ muôn màu kỳ lạ nằm ngay trước mũi chúng ta, vốn dĩ tồn tại song song trên một màng bên ngoài không - thời gian bốn chiều, ngắm nhìn thực tại vật chất quen thuộc hoà quyện với thế giới của những điều kỳ diệu như năng lượng và vật chất tối, sự nảy chồi của các vũ trụ, những chiều không gian bí ẩn và sự biến ảo của các dây rung siêu nhỏ...",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Michio Kaku",
+    "registerUsers": ["5c8a24402f8fb814b56fa190"],
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "61df66fa177f34b995d90f59",
+    "name": "6 Phát Minh Làm Nên Thời Đại",
+    "image": "book-45.jpg",
+    "description": "Sáu chủ đề được đưa ra là: Thủy tinh, Làm lạnh, Âm thanh, Làm sạch, Thời gian, Ánh sáng. Có những câu chuyện nhà phát minh không nhận ra phạm vi thực sự khám phá của mình, như Édouard-Léon Scott de Martinville, người vào năm 1850 đã phát minh ra máy ký âm nhưng không có thiết bị phát lại.",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Steven Johnson",
+    "category": "5c88fa8cf4afda39709c295d",
+    "isVIP": true
+  },
+
+  {
+    "_id": "61df66fa7a0708b5d3d05ce1",
+    "name": "Homo Deus: Lược Sử Tương Lai",
+    "image": "book-46.jpg",
+    "description": "Homo sapiens có phải là một dạng sống siêu đẳng, hay chỉ là một tay đầu gấu địa phương? Làm thế nào con người lại tin rằng họ không chỉ đã kiểm soát thế giới, mà còn mang lại ý nghĩa cho nó? Công nghệ sinh học và trí thông minh nhân tạo đe doạ loài người ra sao? Sinh vật nào có thể kế thừa loài người, và tôn giáo mới nào sẽ được sản sinh?",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Yuval Noah Harari",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+
+  {
+    "_id": "61df66fabe4886f2c30724a3",
+    "name": "Nào Tối Nay Ăn Gì? Thế Lưỡng Nan Của Loài Ăn Tạp",
+    "image": "book-47.jpg",
+    "description": "Việc trả lời câu hỏi tưởng chừng đơn giản này mang đến một trải nghiệm thú vị, một hành trình hấp dẫn ngược xuôi theo các chuỗi thức ăn để khám phá ra chúng ta đang ăn những gì, chúng bắt đầu từ đâu và bằng cách nào tới được bàn ăn, hé lộ một sự thật bất ngờ, choáng váng",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Michael Pollan",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+
+  {
+    "_id": "61df66fa699e31635cc183b0",
+    "name": "Mật Thư",
+    "image": "book-48.jpg",
+    "description": "Mật thư vốn dĩ đã quá quen thuộc với các bạn trẻ yêu thích các hoạt động đội, nhóm, trại kỹ năng, hướng đạo… và là một phần không thể thiếu trong các trò chơi lớn.",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Trần Thời",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+
+  {
+    "_id": "61df66fa02d6144deab5ecff",
+    "name": "Nhìn Lên Những Chòm Sao",
+    "image": "book-49.jpg",
+    "description": "Ở các nước có ngành khoa học không gian tiến bộ trên thế giới thì bộ môn Thiên Văn học được đưa vào chính khóa trong các trường phổ thông. Môn học này có sức lôi cuốn các em học sinh một cách đặc biệt, vì sự hấp dẫn của nó. Ở đây, các em còn được thực hành quan sát ở những kính thiên văn hiện đại cùng với những mô hình y như thật để dễ hình dung.",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Trần Thời",
+    "category": "5c88fa8cf4afda39709c295d"
+  },
+
+  {
+    "_id": "61df66faf161f659433ccfcd",
+    "name": "Giải tích 1",
+    "image": "book-51.jpg",
+    "description": "Sách có nhiều kết quả lý thuyết được chứng minh nhằm giúp các bạn sinh viên có thể tìm hiểu sâu thêm về môn toán. Sách có một hệ thống bài tập chọn lọc, các ví dụ cụ thể khá đa dạng để bạn đọc rèn luyện kỹ năng giải toán cao cấp. Ngoài ra sách còn là một cơn ác mộng đối với các sinh viên, đặc biệt là sinh viên Bách Khoa.",
+    "publisher": "Nhà Xuất Bản Trường ĐH Bách Khoa - Đại học Quốc gia TP Hồ Chí Minh.",
+    "author": " Nguyễn Đình Huy (Chủ biên) - Lê Xuân Đại - Ngô Thu Lương",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185",
+      "5c8a23de2f8fb814b56fa18e"
+    ],
+    "category": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "61df66fa51366cfe3a874948",
+    "name": "Giải tích 2",
+    "image": "book-52.jpg",
+    "description": "Sách có nhiều kết quả lý thuyết được chứng minh nhằm giúp các bạn sinh viên có thể tìm hiểu sâu thêm về môn toán. Sách có một hệ thống bài tập chọn lọc, các ví dụ cụ thể khá đa dạng để bạn đọc rèn luyện kỹ năng giải toán cao cấp. Ngoài ra sách còn là một cơn ác mộng đối với các sinh viên, đặc biệt là sinh viên Bách Khoa.",
+    "publisher": "Nhà Xuất Bản Trường ĐH Bách Khoa - Đại học Quốc gia TP Hồ Chí Minh.",
+    "author": " Nguyễn Đình Huy (Chủ biên) - Lê Xuân Đại - Ngô Thu Lương",
+    "registerUsers": [
+      "5c8a24282f8fb814b56fa18f",
+      "5c8a23c82f8fb814b56fa18d",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "category": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "61df66facf8bee7a02c5e06a",
+    "name": "Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin",
+    "image": "book-53.jpg",
+    "description": "Trước thực tiễn mới của sự nghiệp giáo dục và đào tạo, quán triệt đường lối về đổi mới công tác tư tưởng, lý luận của Đảng và chủ trương cải cách công tác giảng dạy bậc đại học, cao đẳng; Bộ Giáo dục và đào tạo đã ban hành chương trình mới và tổ chức biên soạn cuốn Giáo Trình Những Nguyên Lý Cơ Bản Của Chủ Nghĩa Mác - Lênin.",
+    "publisher": "Nhà Xuất Bản Chính trị quốc gia",
+    "author": "Nguyễn Viết Thông",
+    "category": "5c88fa8cf4afda39709c2966",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa9a731c0ea12c22c7",
+    "name": "Vật lý đại cương Tập 1",
+    "image": "book-54.jpg",
+    "description": "Giáo trình \"Vật Lý Đại Cương\" được biên soạn theo khung chương trình của Bộ Giáo Dục - Đào Tạo, có chú ý đến nội dung đào tạo của khối các trường kỹ thuật.",
+    "publisher": "Nhà Xuất Bản Giáo dục Việt Nam",
+    "author": "Lương Duyên Bình",
+    "registerUsers": ["5c8a1f4e2f8fb814b56fa185"],
+    "category": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "61df66fa491f1c448bad7c9a",
+    "name": "Đại số tuyến tính",
+    "image": "book-55.jpg",
+    "description": "Đại số tuyến tính là môn học quan trọng ở giai đoạn đại cương cho sinh viên nhóm ngành kỹ thuật, công nghệ và khoa học tự nhiên. Nhằm mục đích hỗ trợ sinh viên học tập tốt môn học, chúng tôi ( nhóm tác giả) đã biên soạn giáo trình này.",
+    "publisher": "Nhà Xuất Bản ĐHQG HCM",
+    "author": "Cao Thanh Tình, Lê Hoàng Tuân",
+    "category": "5c88fa8cf4afda39709c2966"
+  },
+
+  {
+    "_id": "61df66fa30b75917a747d5e7",
+    "name": "Phi lý trí",
+    "image": "book-61.jpg",
+    "description": "Nằm trong danh sách những cuốn sách tâm lý học hay nhất của Dan Ariely, Phi Lý Trí có sức hấp dẫn đặc biệt và đầy cảm hứng. Nó buộc người đọc phải suy nghĩ kỹ hơn về tất cả những hành vi, những sai lầm của mình để sống hợp lý và tốt đẹp hơn.",
+    "publisher": "Nhà Xuất Bản Lao Động",
+    "author": "Dan Ariely",
+    "category": "5c88fa8cf4afda39709c2970",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66facd6cb2beb7de53fb",
+    "name": "Tình cờ gặp hạnh phúc",
+    "image": "book-62.jpg",
+    "description": "Bạn có bao giờ đặt câu hỏi về quá trình ra quyết định tác động đến cảm giác hạnh phúc? Làm sao để có thể đoán định được một việc bất kỳ nào sẽ khiến chúng ta hạnh phúc hay đau khổ? Và thực sự khi chúng ta sẽ cảm giác như thế nào sao khi trải qua việc đó?",
+    "publisher": "Nhà Xuất Bản Lao Động",
+    "author": "Daniel Gilbert",
+    "registerUsers": ["5c8a1f4e2f8fb814b56fa185", "5c8a23412f8fb814b56fa18c"],
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66fade944d63eafa1812",
+    "name": "Bản chất của dối trá",
+    "image": "book-60.jpg",
+    "description": "Hầu hết chúng ta đều nghĩ mình trung thực, nhưng, trên thực tế, tất cả chúng ta đều dối trá. Từ Washington đến Phố Wall, từ lớp học đến nơi làm việc, hành vi phi đạo đức xuất hiện ở khắp mọi nơi. Không ai trong chúng là ngoại lệ, cho dù đó là một lời nói không gây hại (white lie) đến các báo cáo tài chính gian lận.",
+    "publisher": "Nhà Xuất Bản Lao Động - Xã Hội",
+    "author": "Dan Ariely",
+    "registerUsers": ["5c8a24822f8fb814b56fa192", "5c8a24a02f8fb814b56fa193"],
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66faeb21df428a519bfc",
+    "name": "Đi tìm lẽ sống",
+    "image": "book-63.jpg",
+    "description": "Cuốn hồi ký của bác sĩ tâm thần Viktor Frankl đã làm say lòng biết bao thế hệ độc giả với những mô tả về cuộc sống trong các trại tử thần của Đức Quốc xã và những bài học để tồn tại về mặt tinh thần. Từ năm 1942 đến năm 1945, Frankl lao động trong bốn trại khác nhau, bao gồm cả trại Auschwitz, trong khi cha mẹ, anh trai và người vợ đang mang thai của ông đã chết.",
+    "publisher": "Nhà xuất bản Tổng hợp TP.HCM",
+    "author": "Viktor Emil Frankl",
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66fade9e96ff5fd3fb39",
+    "name": "Tâm lí học - Khái lược những tư tưởng lớn",
+    "image": "book-64.jpg",
+    "description": "Ta có thực sự là những cá nhân tự do với bản sắc riêng… hay tất cả chúng ta đều chỉ biết tuân phục số đông? Thiên tài là nhờ dưỡng dục hay tự nhiên? Vô thức điều khiển chúng ta như thế nào? Những câu hỏi như trên chính là tiền đề cho các công trình của nhiều tư tưởng gia và khoa học gia lớn của thế giới, trong một lĩnh vực giàu sức lôi cuốn, đó là tâm lí học.",
+    "publisher": "Nhà xuất bản Dân Trí",
+    "author": "DK",
+    "category": "5c88fa8cf4afda39709c2970",
+    "isVIP": true,
+    "registerUsers": [
+      "5c8a24402f8fb814b56fa190",
+      "5c8a23c82f8fb814b56fa18d",
+      "5c8a22c62f8fb814b56fa18b"
+    ]
+  },
+  {
+    "_id": "61df66fa9d2ce3217877828b",
+    "name": "Những Đòn Tâm Lý Trong Thuyết Phục",
+    "image": "book-65.jpg",
+    "description": "Tại sao một số người lại có sức thuyết phục đến mê hoặc và luôn là người làm chủ Trò chơi Thuyết phục? Đâu là những động lực vô hình đằng sau thứ sức mạnh thôi thúc chúng ta đồng thuận với người khác? Những thủ thuật được các bậc thầy thuyết phục sử dụng tài tình là gì, làm thế nào đánh bại các thủ thuật đó - đồng thời biến chúng thành của chính bạn?",
+    "publisher": "Nhà xuất bản Lao Động",
+    "author": "Robert B. Cialdini",
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66fa3f478afaaa376323",
+    "name": "Chúng ta quyết định như thế nào?",
+    "image": "book-66.jpg",
+    "description": "Chúng ta luôn phải đưa ra quyết định cho những công việc hằng ngày, từ bình thường nhất cho đến hệ trọng nhất. Vậy, liệu bạn đã biết các quyết định của mình được não bộ định đoạt như thế nào chăng?",
+    "publisher": "Nhà xuất bản Lao Động Xã Hội",
+    "author": "Jonah Lehrer",
+    "category": "5c88fa8cf4afda39709c2970",
+    "registerUsers": [
+      "5c8a24822f8fb814b56fa192",
+      "5c8a24a02f8fb814b56fa193",
+      "5c8a24282f8fb814b56fa18f"
+    ]
+  },
+  {
+    "_id": "61df66fa4a3a7e37764b3da9",
+    "name": "Sức Mạnh Tiềm Thức",
+    "image": "book-67.jpg",
+    "description": "Là một trong những quyển sách về nghệ thuật sống nhận được nhiều lời ngợi khen và bán chạy nhất mọi thời đại, Sức Mạnh Tiềm Thức đã giúp hàng triệu độc giả trên thế giới đạt được những mục tiêu quan trọng trong đời chỉ bằng một cách đơn giản là thay đổi tư duy.",
+    "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+    "author": "Joseph Murphy",
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66fa94e37da30010701c",
+    "name": "Tâm lý học hài hước",
+    "image": "book-68.jpg",
+    "description": "Đã bao giờ bạn tự hỏi tại sao nhạc sĩ dở tệ luôn luôn giành chiến thắng trong cuộc thi Eurovision Song Contest, hoặc làm thế nào mà những chính trị gia không đủ năng lực lại được bầu?",
+    "publisher": "Nhà xuất bản Lao Động",
+    "author": "Richard Wiseman",
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "61df66fa6dfe1e3b90035551",
+    "name": "Tâm Lý Học Thành Công",
+    "image": "book-69.jpg",
+    "description": "Nhà tâm lý học nổi tiếng Carol S. Dweck sau nhiều thập niên nghiên cứu về thành công đã khám phá ra một ý tưởng thực sự mang tính đột phá - sức mạnh tư duy của chúng ta.",
+    "publisher": "Nhà xuất bản Lao Động - Xã Hội",
+    "author": "Carol S. Dweck",
+    "category": "5c88fa8cf4afda39709c2970"
+  },
+
+  {
+    "_id": "61df66faf9cc5d0049c64ca8",
+    "name": "Tuổi Thơ Dữ Dội",
+    "image": "book-70.jpg",
+    "description": "Tuổi thơ dữ dội - cuốn truyện xoay quanh cuộc sống chiến đấu và hy sinh của những thiếu niên 13, 14 tuổi trong hàng ngũ Đội thiếu niên trinh sát của trung đoàn Trần Cao Vân.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Phùng Quán",
+    "category": "5c88fa8cf4afda39709c2974",
+    "isVIP": true,
+    "registerUsers": ["5c8a24402f8fb814b56fa190", "5c8a24822f8fb814b56fa192"]
+  },
+  {
+    "_id": "61df66fab693b39a5f065ba7",
+    "name": "Tiếng chim hót trong bụi mận gai",
+    "image": "book-71.jpg",
+    "description": "Xuyên suốt tiểu thuyết Tiếng chim hót trong bụi mận gai là câu chuyện tình giữa Meggie và vị cha xứ Ralph. Meggie cố quên đi tình cảm của mình bằng cách kết hôn với Luke O'Neill - một công nhân trong trang trại, nhưng chẳng bao lâu sau cô và cha Ralph lại đoàn tụ, cuộc tình của họ đã gây ra nhiều bi kịch.",
+    "publisher": "Nhà xuất bản văn học",
+    "author": "Colleen McCullough",
+    "category": "5c88fa8cf4afda39709c2974",
+    "registerUsers": ["5c8a1ec62f8fb814b56fa183", "5c8a245f2f8fb814b56fa191"]
+  },
+  {
+    "_id": "61df66faf0118b01a55a1588",
+    "name": "Không Gia Đình",
+    "image": "book-72.jpg",
+    "description": "KHÔNG GIA ĐÌNH kể về cuộc đời của cậu bé Rémi. Từ nhỏ, Rémi đã bị bắt cóc, rồi bị bố nuôi bán cho một đoàn xiếc thú. Em đã theo đoàn xiếc ấy đi lưu lạc khắp nước Pháp.",
+    "publisher": "Nhà xuất bản văn học",
+    "author": "Hector Malot",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66fab728d54220e7f884",
+    "name": "Giết Con Chim Nhại",
+    "image": "book-73.jpg",
+    "description": "Bạn phải làm quen ngay với bố Atticus của hai anh em - Jem và Scout, ông bố luật sư có một cách riêng, để những đứa trẻ của mình cứng cáp và vững vàng hơn khi đón nhận những bức xúc không sao hiểu nổi trong cuộc sống.",
+    "publisher": "Nhà xuất bản văn học",
+    "author": "Harper Lee",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66fa905cafdbd2f99dc3",
+    "name": "Bắt Trẻ Đồng Xanh",
+    "image": "book-74.jpg",
+    "description": "Bắt trẻ đồng xanh đã từng trở thành chủ đề tranh luận hết sức sâu rộng tại Mỹ. Sau rất nhiều thị phi, tác phẩm đã được đưa vào giảng dạy tại chương trình trung học Mỹ. Và hơn thế, tạp chí Time đã xếp Bắt trẻ đồng xanh vào một trong 100 tác phẩm viết bằng tiếng Anh hay nhất từ năm 1923 đến nay.",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "author": "Jerome David Salinger",
+    "category": "5c88fa8cf4afda39709c2974",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa6dcac1ea5374324d",
+    "name": "Hai Vạn Dặm Dưới Đáy Biển",
+    "image": "book-75.jpg",
+    "description": "Trong chuyến săn tìm một sinh vật lạ mới xuất hiện ngoài biển khơi, đoàn thám hiểm của giáo sư Pierre Aronnax bất ngờ bị một con vật khổng lồ nuốt chửng vào bụng. Nhưng nhờ đó, họ đã được chu du khắp đại dương cùng thuyền trưởng N.",
+    "publisher": "Nhà Xuất Bản Văn Học",
+    "author": "Jules Verne",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66fabf1b96d16526be6b",
+    "name": "Những Mảnh Đời Đen Trắng",
+    "image": "book-76.jpg",
+    "description": "Những mảnh đời đen trắng là một tác phẩm mạnh và dứt khoát. Là cuộc xung đột giữa hai tầng lớp xã hội, hai quan điểm sống khác nhau. Giữa hai thế hệ già và trẻ, giữa lớp người có quá khứ oai hùng và lớp ngưới không được quyền có quá khứ.",
+    "publisher": "NXB Hội nhà văn",
+    "author": "Nguyễn Quang Lập",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66fa372cadaf713baaab",
+    "name": "Đời Callboy",
+    "image": "book-78.jpg",
+    "description": "Đời Callboy có những đoạn trần trụi khiến người ta hoài nghi về độ thật của nó và tự hỏi: “Xã hội thực sự là thế ư?”, nhưng nếu một lần tận mắt chứng kiến những gì đang xảy ra, mọi người sẽ hiểu rằng “Đời Callboy” của Nguyễn Ngọc Thạch đã đi đến được những góc khuất nhất của “nghề nghiệp” bị người đời coi khinh này.",
+    "publisher": "Nhà xuất bản Văn học",
+    "author": "Nguyễn Ngọc Thạnh",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66faee553fc653151676",
+    "name": "Ăn mày dĩ vãng",
+    "image": "book-77.jpg",
+    "description": "Hòa bình, những người lính kiêu dũng trong chiến tranh phần lớn đã “về vườn, ăn theo, núp váy vợ. Đứa thì say xỉn tối ngày nằm trên võng nắng; đứa thì lụi hụi trồng tỉa ngoài bưng, mở mồm là càu cạu; đứa thì thở dài phìn phịt giữa một bên là bầy con nhem nhuốc, một bên là thạp gạo chỉ còn cám mùn đọng quẩn dưới đáy",
+    "publisher": "Nhà xuất bản Văn học",
+    "author": "Chu Lai",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "61df66fadc0074914566e653",
+    "name": "Đêm Hội Long Trì",
+    "image": "book-79.jpg",
+    "description": "Đêm hội Long Trì là một cuốn tiểu thuyết lịch sử của nhà văn Nguyễn Huy Tưởng.",
+    "publisher": "Nhà xuất bản Kim Đồng",
+    "author": "Nguyễn Huy Tưởng",
+    "category": "5c88fa8cf4afda39709c2974"
+  },
+
+  {
+    "_id": "61df66fa0fa66ea027ce2aba",
+    "name": "Dạy Con Làm Giàu",
+    "image": "book-80.jpg",
+    "description": "Một quốc gia có thể tồn tại như thế nào nếu việc dạy trẻ con quản lý tiền bạc vẫn là trách nhiệm của phụ huynh, mà hầu hết họ không có nhiều kiến thức về vấn đề này?",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Robert T. Kiyosaki",
+    "category": "5c88fa8cf4afda39709c296c",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa2d0f6cf2f0d10b79",
+    "name": "Bí Quyết Gây Dựng Cơ Nghiệp Bạc Tỷ",
+    "image": "book-81.jpg",
+    "description": "Bạn nuôi một khát khao cháy bỏng muốn xây dựng một doanh nghiệp thành công của riêng mình? Bạn muốn tự tay tạo ra nguồn tài chính dồi dào, sự tự do và sự bảo đảm suốt đời mà doanh nghiệp của bạn mang lại?",
+    "publisher": "Nhà Xuất Bản Phụ Nữ",
+    "author": "Adam Khoo",
+    "category": "5c88fa8cf4afda39709c296c",
+    "isVIP": true,
+    "registerUsers": ["5c8a21d02f8fb814b56fa189", "5c8a22c62f8fb814b56fa18b"]
+  },
+  {
+    "_id": "61df66fa8fdca2fd13fc7640",
+    "name": "Bí Mật Tư Duy Triệu Phú ",
+    "image": "book-82.jpg",
+    "description": "Trong cuốn sách này T. Harv Eker sẽ tiết lộ những bí mật tại sao một số người lại đạt được những thành công vượt bậc, được số phận ban cho cuộc sống sung túc, giàu có, trong khi một số người khác phải chật vật, vất vả mới có một cuộc sống qua ngày.",
+    "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+    "author": "T.Harv Eker",
+    "category": "5c88fa8cf4afda39709c296c",
+    "registerUsers": ["5c8a21f22f8fb814b56fa18a", "5c8a23c82f8fb814b56fa18d"]
+  },
+  {
+    "_id": "61df66fa71e0489034103d80",
+    "name": "Chiêu Bài Quản Lý Vàng Của Bill Gates",
+    "image": "book-83.jpg",
+    "description": "Bill Gates là người sáng lập ra công ty Microsoft, công ty hàng đầu chuyên cung cấp phần mềm cho máy tính. Ông nguyên là Tổng Giám đốc và CEO của công ty Microsoft. Ông là người nổi tiếng trên thế giới. Ông đã biến lĩnh vực phần mềm trở thành một thần thoại, đã tạo ra một vương quốc phần mềm kỳ diệu bằng cả cuộc đời mình.",
+    "publisher": "Nhà Xuất Bản Tổng hợp TP.HCM",
+    "author": "Thương Mỗ",
+    "category": "5c88fa8cf4afda39709c296c",
+    "registerUsers": ["5c8a21f22f8fb814b56fa18a", "5c8a23c82f8fb814b56fa18d"]
+  },
+  {
+    "_id": "61df66fa2bc77de16424bdfc",
+    "name": "Tiền Không Mua Được Gì?",
+    "image": "book-84.jpg",
+    "description": "Chúng ta đã quen và bị thuyết phục bởi nền kinh tế thị trường: thông qua giá, thị trường điều phối tài nguyên quý hiếm để phục vụ xã hội một cách tốt nhất. Ai sẵn sàng bỏ nhiều tiền nhất để mua một cái gì đó sẽ là người sử dụng nó một cách hiệu quả nhất.",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Michael Sandel",
+    "category": "5c88fa8cf4afda39709c296c"
+  },
+
+  {
+    "_id": "61df66fa75dd6cb57805d689",
+    "name": "Món Ăn Đường Phố",
+    "image": "book-90.jpg",
+    "description": "Tôi thích những món ăn, đặc biệt là món ăn đường phố. Ở đó, tôi nhận thấy món ăn có thật nhiều hương vị, nhiều kiểu dáng và nhiều hình thức khác nhau.",
+    "publisher": "Nhà Xuất Bản Hồng Đức",
+    "author": "Yanny Đặng",
+    "category": "5c88fa8cf4afda39709c2959",
+    "isVIP": true,
+    "registerUsers": ["5c8a1dfa2f8fb814b56fa181", "5c8a1ec62f8fb814b56fa183"]
+  },
+  {
+    "_id": "61df66fae6234f0096c40f42",
+    "name": "Nấu Ăn Thực Dưỡng Cơ Bản",
+    "image": "book-91.jpg",
+    "description": "Cuốn sách này nhấn mạnh điều cơ bản ấy trong việc nấu nướng, gồm 3 vấn đề là: thực phẩm, kỹ thuật và các nguyên tắc nấu nướng.",
+    "publisher": "Nhà Xuất Bản Đà Nẵng",
+    "author": "Julia Ferré",
+    "category": "5c88fa8cf4afda39709c2959",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66faee0bba61629c9a79",
+    "name": "Món Ăn Gia Đình",
+    "image": "book-92.jpg",
+    "description": "Ăn hoài những món ăn quen thuộc thì ngán, nhưng hễ nói tới một món ăn mới thì hầu như ai cũng ngần ngại.",
+    "publisher": "Nhà Xuất Bản Hồng Đức",
+    "author": "Yanny Đặng",
+    "category": "5c88fa8cf4afda39709c2959",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66faa478f282048ad10a",
+    "name": "Mặn Béo Chua Nóng",
+    "image": "book-93.jpg",
+    "description": "Một cuốn sách dạy nấu ăn mới lạ, độc đáo và ý nghĩa, với hàng chục năm kinh nghiệm nấu ăn chuyên nghiệp được đúc kết thành bốn yếu tố giản đơn, đến từ nữ tác giả được siêu đầu bếp Alice Waters mệnh danh là giáo viên dạy nấu ăn vĩ đại của nước Mỹ trong tương lai.",
+    "publisher": "Nhà Xuất Bản Phụ Nữ",
+    "author": "Samin Nosrat, Wendy MacNaughton",
+    "category": "5c88fa8cf4afda39709c2959",
+    "registerUsers": ["5c8a211f2f8fb814b56fa188"]
+  },
+  {
+    "_id": "61e40c9a9350e8d9921a76e8",
+    "name": "4 Tuần Keto",
+    "image": "book-94.jpg",
+    "description": "Phương pháp Keto mang đến một kế hoạch giảm cân thành công ít tinh bột - nhiều chất béo trong 28 ngày bằng cách rèn luyện cho cơ thể bạn đốt chất béo thay cho đường, giảm lượng đường tiêu thụ và giảm cân bền vững.",
+    "publisher": "Nhà Xuất Bản Thế Giới",
+    "author": "Jürgen Vormann",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+  {
+    "_id": "61df66facf2d681bdefff019",
+    "name": "Kỹ Thuật Chế Biến 300 Món Ăn Ngon",
+    "image": "book-95.jpg",
+    "publisher": "Nhà Xuất Bản Hải Phòng",
+    "description": "Kỹ thuật chế biến món ăn vừa là nghệ thuật vừa là một khoa học. Món ăn thể hiện nghệ thuật ẩm thực của mỗi vùng, miền, dân tộc. Tài liệu cung cấp cho bạn bạn đọc kỹ thuật chế biến 300 món ăn ngon.",
+    "author": "Thuỳ Linh",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+  {
+    "_id": "61df66fad034112f90666f5d",
+    "name": "Giáo Trình Thực Hành Chế Biến Món Ăn",
+    "image": "book-96.jpg",
+    "publisher": "Nhà Xuất Bản Giáo dục",
+    "description": "Giáo trình Thực hành chế biến món ăn nhằm giới thiệu đến người tham khảo một số kiến thức và quy trình chế biến các món ăn Á - Âu. Nội dung được chia làm 3 phần",
+    "author": "Nguyễn Thị Tuyết",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+  {
+    "_id": "61df66fa1ea490050f8812b3",
+    "name": "Dinh Dưỡng Cho Trẻ Béo Phì",
+    "image": "book-97.jpg",
+    "publisher": "Nhà Xuất Bản Phụ nữ",
+    "description": "Gần 90 món ăn được giới thiệu trong tập sách này là những món chọn lọc, hợp với khẩu vị của người việt, sẽ giúp các bạn nắm được những quy tắc chung nhất để chế biến các món ăn này.",
+    "author": "Việt Điền",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+  {
+    "_id": "61df66fa832d8d63ba045bec",
+    "name": "Các Món Ăn Chay Trị Bệnh",
+    "image": "book-98.jpg",
+    "publisher": "Nhà Xuất Bản Đà Nẵng",
+    "description": "Với hàng trăm cách chế biến các món chay đa dạng, có thể cung ứng cho mọi bữa ăn khác nhau, từ những món canh, món xào, món nguội, món ăn ngọt… cho đến các món bánh, món mì, món điểm tâm… Các Món Ăn Chay Trị Bệnh quả thật có thể xem là một cẩm nang quý giá cho người ăn chay.",
+    "author": " Phan Văn Chiêu - Thiếu Hải",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+  {
+    "_id": "61df66fa84ee4bebc810364d",
+    "name": "Các Món Ăn Đặc Sản Miền Nam",
+    "image": "book-99.jpg",
+    "publisher": "Nhà Xuất Bản Mũi Cà Mau",
+    "description": "Đặc điểm món ăn từng miền tuy khác nhau, nhưng vẫn có những điểm tương đồng, thể hiện qua cơ cấu bữa ăn, nguyên tắc chế biến như nước dùng, nước mắm, gia vị hỗn hợp, rau phong phú, các loại nước chấm chế biến đa dạng phù hợp với món ăn.",
+    "author": "Lâm Hoa Phụng",
+    "category": "5c88fa8cf4afda39709c2959"
+  },
+
+  {
+    "_id": "61df66faf559f210481ae5e9",
+    "name": "Mùa Hè Kinh Hãi",
+    "image": "book-100.jpg",
+    "description": "Lời nói dối đen tối đã bị vạch trần, và trước khi bốn người bạn kịp nhận ra, họ phải đánh bại kẻ thủ ác… bằng không chính họ sẽ là những người tiếp theo phải chết.",
+    "publisher": "Nhà Xuất Bản Kim Đồng",
+    "author": "Lois Duncan",
+    "category": "5c88fa8cf4afda39709c2958",
+    "registerUsers": ["5c8a245f2f8fb814b56fa191", "5c8a24822f8fb814b56fa192"]
+  },
+  {
+    "_id": "61df66fa859c2477c98283f0",
+    "name": "Dị Chủng 2 - Tàn Thế",
+    "image": "book-101.jpg",
+    "description": "Dị chủng đã cuốn hút mình ngay từ trang đầu tiên, khi cậu bé Abraham được nghe bà kể truyền thuyết về một con quái vật cổ xưa ẩn mình.",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "category": "5c88fa8cf4afda39709c2958",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa102eb355e23c40ad",
+    "name": "Dị Chủng 3 - Đêm Vĩnh Hằng",
+    "image": "book-102.jpg",
+    "description": "Thế giới đã thay đổi sau đại dịch ma cà rồng. Trong thời khắc đen tối nhất của lịch sử nhân loại, một nhóm những kẻ sống sót âm thầm tìm kiếm cho mình một tia sáng, một lối thoát, một giải pháp cho hành tinh thất thế này.",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "category": "5c88fa8cf4afda39709c2958",
+    "isVIP": true,
+    "registerUsers": ["5c8a24402f8fb814b56fa190"]
+  },
+  {
+    "_id": "61df66fad5628cd4b1fb7766",
+    "name": "Dị Chủng",
+    "image": "book-103.jpg",
+    "description": "Bác sĩ Ephraim Goodweather phải đối mặt với một chủng loài cổ xưa nhăm nhe trỗi dậy thôn tính trái đất. Một trận đại dịch có thể tiêu diệt toàn bộ loài người.",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "category": "5c88fa8cf4afda39709c2958",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa5dd070f1a31cce74",
+    "name": "Cẩm Tú Kỳ Bào",
+    "image": "book-104.jpg",
+    "description": "“Trong đêm khuya thanh vắng,một người phụ nữ mặc chiếc Cẩm tú kỳ bào đi lại phía tôi… Lời nguyền oán hận quay trở lại, số mệnh đau thương khó tránh”.",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "author": "Chu Nghiệp Á",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+  {
+    "_id": "61df66fa3979f8bc56b4c981",
+    "name": "Hồn Ma Đêm Giáng Sinh",
+    "image": "book-105.jpg",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "description": "Câu chuyện khắc họa sống động nhân vật Ebenezer Scrooge keo kiệt, ưa gắt gỏng; tuy nhiên đã có những chuyển biến lớn về tư tưởng, tình cảm và nhận thức về giá trị nhân bản sau cuộc ghé thăm của những “vị khách siêu nhiên” là Hồn ma vất vưởng Jacob Marley và ba Hồn ma của Giáng sinh Quá khứ, Hiện tại và Tương lai, để cuối cùng ông trở thành người mang giá trị nhân ái của Giáng sinh lan tỏa đến mọi người.",
+    "author": "Charles Dickens",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+  {
+    "_id": "61df66fa3e63461bdf333a94",
+    "name": "Cánh Cửa Xanh",
+    "image": "book-106.jpg",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "description": "Lạc Uyển - một cô gái xinh đẹp vừa tốt nghiệp đại học vốn có một cuộc sống yên bình tươi đẹp nhưng sau một cơn ác mộng tất cả đã hoàn toàn thay đổi. Cô bị vướng vào một lời nguyền đáng sợ, trong 7 ngày phải tìm được cánh cửa xanh.",
+    "author": "Hồng Nương Tử",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+  {
+    "_id": "61df66fa4a3905c624bc94ca",
+    "name": "Liêu trai chí dị",
+    "image": "book-107.jpg",
+    "publisher": "Nhà Xuất Bản Tre",
+    "description": "Liêu trai chí dị (chữ Hán: 聊齋志異), với ý nghĩa là những chuyện quái dị chép ở căn nhà tạm, là tập truyện ngắn gồm 431 thiên, ra đời vào đầu đời nhà Thanh (cuối thế kỷ 17) của nhà văn Trung Quốc Bồ Tùng Linh. ",
+    "author": "Bồ Tùng Linh",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+  {
+    "_id": "61df66fa8ab562017c11f1da",
+    "name": "Mẹ chồng ăn thịt cả nhà nàng dâu",
+    "image": "book-108.jpg",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "description": "Thúy Thúy - nàng dâu trẻ hiền lành ngoan ngoãn, gặp phải bà mẹ chồng tai quái, độc đoán và tham lam vô độ. Cô chưa kịp hưởng niềm hạnh phúc của cuộc sống mới, đã phải bước vào những chuỗi ngày u ám chốn địa ngục trần gian",
+    "author": "Kỷ Đạt",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+  {
+    "_id": "61df66fa52401b08a8b6ce14",
+    "name": "Hình Xăm Của Quỷ",
+    "image": "book-109.jpg",
+    "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+    "description": "Hình xăm bắt nguồn từ bao giờ? Điều này rất khó nói. Đã từ lâu lắm rồi, không chỉ có ở nước ta mà kể cả những nước khác, hình xăm đã được tuyên chuyền và phổ biến từ rất xa xưa.",
+    "author": "Hưng Thế Nguyễn",
+    "category": "5c88fa8cf4afda39709c2958"
+  },
+
+  {
+    "_id": "61df66fa5c42cef169b9f00d",
+    "name": "451 Độ F",
+    "image": "book-110.jpg",
+    "description": "Hãy mường tượng một thế giới nơi truyền hình thống trị và văn chương ngấp nghé trên bờ tuyệt chủng, nơi thông tin nông cạn được tung hô còn tri thức và ý tưởng thì bị ruồng rẫy.",
+    "publisher": "Nhà xuất bản văn học",
+    "author": "Ray Bradbury",
+    "category": "5c88fa8cf4afda39709c2957",
+    "isVIP": true,
+    "registerUsers": ["5c8a1dfa2f8fb814b56fa181"]
+  },
+  {
+    "_id": "61df66fa7da3b9ca54d3d7c0",
+    "name": "Bất Tử - Evermore",
+    "image": "book-111.jpg",
+    "description": "Thoát chết sau một tai nan khủng khiếp đã cướp mất mạng sống của các thành viên trong gia đình. Ever đột nhiên có khả năng thấy được “hào quang” của một người, nghe được suy nghĩ và biết được cuộc sống cá nhân của người mà cô chạm vào.",
+    "publisher": "Nhà Xuất Bản Trẻ",
+    "author": "Alyson Noël",
+    "category": "5c88fa8cf4afda39709c2957",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa8f32b39dd370b133",
+    "name": "Máy Tính Sát Thủ",
+    "image": "book-112.jpg",
+    "description": "Lập trình để giết người ư? Sáu mạng người lần lượt ngã gục trước màn hình máy tính! Mọi bằng chứng đều quy cho OMNIA 3, thế hệ máy tính vô cùng siêu việt, được điều khiển bằng giọng nói và ánh mắt, là hung thủ.",
+    "publisher": "Nhà Xuất Bản Thời Đại",
+    "author": "Christian Grenier",
+    "category": "5c88fa8cf4afda39709c2957",
+    "registerUsers": ["5c8a1e1a2f8fb814b56fa182"]
+  },
+  {
+    "_id": "61df66fac4cd39390e411b39",
+    "name": "Ký Ức Nửa Đêm",
+    "image": "book-113.jpg",
+    "publisher": "Nhà Xuất Bản Văn học",
+    "description": "Cuốn tiểu thuyết Kí ức nửa đêm mô tả quá trình phục hồi trí nhớ và quay trở lại xã hội thượng lưu của cô gái Catherine.",
+    "author": "Sidney Sheldon",
+    "category": "5c88fa8cf4afda39709c2957",
+    "registerUsers": ["5c8a1e1a2f8fb814b56fa182"]
+  },
+  {
+    "_id": "61df66fae9c1ca468ec6f171",
+    "name": "Không Có Gì Mãi Mãi",
+    "image": "book-114.jpg",
+    "publisher": "Nhà Xuất Bản Văn học",
+    "description": "Không có gì mãi mãi là cuộc chạy đua từ những quyết định sinh tử trong phòng mổ đến không khí căng thẳng của phiên toà; những tham vọng và nỗi sợ hãi của kẻ sát nhân và người vô tội; lòng ti tiện và sự hào hiệp của kẻ phản bội và những người yêu nhau…Câu chuyện là cuộc đời của 3 nữ bác sỹ trẻ cùng làm việc tại một bệnh viện lớn ở San Fancisco. Mời các bạn tìm đọc tác phẩm này của Sidney Sheldon.",
+    "author": "Sidney Sheldon",
+    "category": "5c88fa8cf4afda39709c2957",
+    "registerUsers": ["5c8a1e1a2f8fb814b56fa182"]
+  },
+
+  {
+    "_id": "61df66facb51c913f9964785",
+    "name": "Di Sản Văn Hóa Dân Tộc Trong Tín Ngưỡng Và Tôn Giáo Việt Nam",
+    "image": "book-120.jpg",
+    "description": "Văn hóa nước ta đang đứng trước một thời cơ phát triển đầy triển vọng, nhưng cũng đầy thử thách.",
+    "publisher": "Nhà xuất bản Thuận Hóa",
+    "author": "Chu Quang Trứ",
+    "category": "5c88fa8cf4afda39709c2956"
+  },
+  {
+    "_id": "61df66fa8ddb77ac42e8d7df",
+    "name": "Đức Phật Và Phật Pháp",
+    "image": "book-121.jpg",
+    "description": "Đạo hữu Phạm Kim Khánh, pháp danh Sunanda, đã dày công phiên dịch thiên khái luận nhỏ bé này ra tiếng mẹ đẻ với mục đích đáp lại phần nào lòng mong ước của những ai muốn hiểu Đức Phật và giáo lý của Ngài.",
+    "publisher": "Nhà Xuất Bản Hồng Đức",
+    "author": "Maha Thera",
+    "category": "5c88fa8cf4afda39709c2956",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fa0782942b68799089",
+    "name": "Văn Hoá Lối Sống Của Người Theo Hồi Giáo",
+    "image": "book-122.jpg",
+    "description": "Đạo hồi-lịch sử hình thành (kinh cô ran). lối sống đạo của người theo hồi giáo. người chăm việt nam với đạo hồi. sắc màu văn hóa hồi giáo.",
+    "publisher": "Nhà xuất bản Văn Hóa - Thông Tin",
+    "author": "Nguyễn Mạnh Cường",
+    "category": "5c88fa8cf4afda39709c2956"
+  },
+  {
+    "_id": "61df66fa57a29ac69917283c",
+    "name": "Suy Ngẫm Về Thiện Và Ác",
+    "image": "book-123.jpg",
+    "publisher": "Nhà xuất bản Lao động",
+    "description": "Học giả Phật giáo Tây Tạng, Stephen Batchelor đã mang đến cho chúng ta cái nhìn thấu suốt về cuộc đấu tranh giữa thiện và ác, giữa ánh sáng và bóng tối qua ẩn dụ về chiến thắng của Đức Phật với quỷ Mara, Chúa Giê-su với quỷ Satan… Đây cũng chính là cuộc đấu tranh không ngừng của con người để vươn tới Chân Thiện Mỹ, dù ở Phương Đông hay Phương Tây.",
+    "author": "Stephen Batchelor",
+    "category": "5c88fa8cf4afda39709c2956"
+  },
+  {
+    "_id": "61df66fa90a79c94c4d2f910",
+    "name": "Nhân quả",
+    "image": "book-124.jpg",
+    "publisher": "Nhà xuất bản Văn Hóa - Thông Tin",
+    "description": "Vũ trụ, vạn vật không phải tuần hành, biến dịch một cách tự nhiên, vô lý, mà tuân theo một cái luật chung, luật đó là luật nhân quả. Luật này không phải do một đấng nào, xã hội nào đặt ra, mà là một luật thiên nhiên âm thầm, lặng lẽ, nhưng đúng đắn vô cùng. Cuốn sách Nhân Quả của Nguyễn Chu Phác sẽ cung cấp cho bạn đọc cái nhìn tổng quan và những ví dụ có thật, sinh động về luật nhân quả theo triết lý của đạo Phật.",
+    "author": " Nguyễn Chu Phác",
+    "category": "5c88fa8cf4afda39709c2956"
+  },
+
+  {
+    "_id": "61df66fab0c9d02a5d37d86e",
+    "name": "Bão Lửa U23 - Thường Châu Tuyết Trắng",
+    "image": "book-130.jpg",
+    "description": "Như chúng ta đều biết, những thành quả mà Đội tuyển U23 Việt Nam đạt được tại VCK U23 châu Á 2018 đã mang lại những cảm xúc khó quên trong lòng mỗi người con đất Việt.",
+    "publisher": "Nhà Xuất Bản Thể Dục - Thể Thao",
+    "author": "Nhiều Tác Giả",
+    "category": "5c88fa8cf4afda39709c2954",
+    "isVIP": true
+  },
+  {
+    "_id": "61df66fab7cc8a36563a7624",
+    "name": "Kỹ Thuật Đánh Bóng Bàn",
+    "image": "book-131.jpg",
+    "description": "Cùng với sự phát triển của kỹ thuật môn bóng bàn, sự biến hóa về đường bóng, biến hóa về điểm rơi khi đánh bóng cũng ngày một phát triển không ngừng.",
+    "publisher": "Nhà Xuất Bản Mũi Cà Mau",
+    "author": "Thanh Long",
+    "category": "5c88fa8cf4afda39709c2954",
+    "registerUsers": ["5c8a20d32f8fb814b56fa187", "5c8a211f2f8fb814b56fa188"]
+  },
+  {
+    "_id": "61df66fa291a1d676c3db861",
+    "name": "Hướng Dẫn Học Karate",
+    "image": "book-132.jpg",
+    "description": "Từ Karate hiểu theo nghĩa đen là tay không. Các vũ khí chủ yếu của Karate là tay và chân. Tuy nhiên, một người giỏi Karate sẽ không chỉ đơn thuần dùng sức mạnh của chúng.",
+    "publisher": "Nhà Xuất Bản Thể Dục - Thể Thao",
+    "author": "Trần Tuấn Hiếu",
+    "category": "5c88fa8cf4afda39709c2954"
+  },
+
+  {
+    "_id": "61df66fa553e333a61dee389",
+    "name": "Dạy Trẻ Tập Bơi",
+    "image": "book-133.jpg",
+    "description": "Bơi lội là một kỹ năng cần thiết giúp đảm bảo an toàn cho trẻ khi tiếp xúc với nước, đồng thời giúp trẻ phát triển tốt về mặt thể chất và tinh thần.",
+    "publisher": "Nhà xuất bản phụ nữ",
+    "author": "Alis Mark",
+    "category": "5c88fa8cf4afda39709c2954",
+    "isVIP": true,
+    "registerUsers": ["5c8a21d02f8fb814b56fa189", "5c8a20d32f8fb814b56fa187"]
+  },
+  {
+    "_id": "61df66fae649fb6f59c803e9",
+    "name": "Tự Học Chơi Cờ Vua - Nước Đi Đầu Tiên Của Nhà Vô Địch",
+    "image": "book-134.jpg",
+    "publisher": "Nhà xuất bản Thể dục Thể thao",
+    "description": "Cờ Vua là môn thể thao, theo như các nhà sử gia nước Anh thì có nguồn gốc ở Ấn Độ, sau đó được phát triển nhanh chóng sang các nước Châu Âu, Châu Phi và Châu Mỹ… bằng nhiều con đường khác nhau.",
+    "author": "Mai Luân",
+    "category": "5c88fa8cf4afda39709c2954",
+    "isVIP": true
+  }
+]

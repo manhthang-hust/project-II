@@ -1,0 +1,52 @@
+.events{
+    .admin{
+        .content{
+            h1{
+                margin-left: 50px;
+                margin-top: 10px;
+            }
+            .table{
+                flex-direction: column;
+                width: 900px;
+                gap: 10px;
+                margin-top: 50px;
+                margin-left: 50px;
+                border-collapse: collapse;
+                th, td {
+                    border: 1px solid #ffffff;
+                    text-align: left;
+                    padding: 8px;
+                    font-size: 14px;
+                }
+                th {
+                    background-color: var(--black);
+                    color: white;
+                }
+                td {
+                    background-color: #c4c4c4;
+                    color: #000;
+                }
+                .tablebody{
+                    .tb-row{
+                        .icon3{
+                            width: 24px;
+                            height: 24px;
+                            color: #000;
+                            cursor: pointer;
+                        }
+                    }
+                }
+            }
+            .createbtn{
+                width: 200px;
+                height: 30px;
+                background: var(--purple);
+                color: white;
+                border: none;
+                border-radius: 5px;
+                margin-left: 750px;
+                cursor: pointer;
+            }
+        }
+    }
+}

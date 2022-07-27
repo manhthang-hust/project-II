@@ -1,0 +1,75 @@
+.signup{
+    .header{
+        display: block;
+        margin-top: 30px;
+        margin-left: 30px;
+        margin-bottom: 50px;
+        font-size: 22px;
+        line-height: 63px;
+        h1{
+            color: #6C63FF; 
+        }
+    }
+    .body{
+        
+        .form{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            width: fit-content;
+            min-height: 330px;
+            border: 3px solid #3F3D56;
+            border-radius: 25px;
+            align-items: inherit;
+            margin: auto;
+            margin-top: 50px;
+            .col1{
+                width: 470px;
+                min-width: 300px;
+                display: flex;
+                flex-direction: column;
+            }
+            .col2{
+                width: 470px;
+                min-width: 300px;
+                display: flex;
+                flex-direction: column;
+            }
+            input{
+                height: 35px;
+                padding-left: 48px;
+                margin: 15px 38px 0px 38px;
+                border: 3px solid #000;
+                box-sizing: border-box;
+                border-radius: 25px;
+                width: auto;
+            }
+            select{
+                height: 33px;
+                padding-left: 48px;
+                margin: 15px 38px 0px 38px;
+                border: 1px solid #000;
+                box-sizing: border-box;
+                border-radius: 25px;
+                width: auto;
+            }
+            p{
+                box-sizing: border-box;
+                width: auto;
+                color: red;
+            }
+            button{
+                height: 35px;
+                padding: 7px;
+                margin: 25px 38px 32px 38px;
+                border: 1px solid #000;
+                box-sizing: border-box;
+                border-radius: 25px;
+                background-color: #6C63FF;
+                color: #fff;
+                cursor: pointer;
+            }
+        }
+    }
+
+}
